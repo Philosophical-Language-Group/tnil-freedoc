@@ -1,6 +1,6 @@
 #+title: Ithkuil graphics
 * Overview
-[Ithkuil](http://ithkuil.net/) is a constructed language created by John Quijada.
+[[http://ithkuil.net/][Ithkuil]] is a constructed language created by John Quijada.
 
 This repo contains graphics illustrating a few of the language's morphological categories.
 
