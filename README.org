@@ -6,13 +6,13 @@ This repo contains graphics illustrating a few of the language's morphological c
 
 * Configuration
 Configuration describes the physical similarity and spatial connectedness of the items named by the root.
-[[file:./img/configurations.png]]
+[[file:./output/preview-configurations.png]]
 * Affiliation
 Affiliation communicates similarities and dissimilarities of use and purpose between  members of the configurative set.
-[[file:./img/affiliations.png]]
+[[file:./output/preview-affiliations.png]]
 * Perspective
 Perspective quantifies the configurative set as a single, multiple, universal, or conceptual instance of the root.
-[[file:./img/perspectives.png]]
+[[file:./output/preview-perspectives.png]]
 * Extension
 Extension picks out a spatiotemporal part of the set (beginning, end), its dynamics (increasing, decreasing), and its characterization as either circumscribed by or transcending the discursive context. 
-[[file:./img/extensions.png]]
+[[file:./output/preview-extensions.png]]
