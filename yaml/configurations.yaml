@@ -1,0 +1,33 @@
+---
+name: Configuration
+brief: Configuration describes the physical (dis)similarity and spatiotemporal connectedness of the item(s) named by the stem.
+values:
+  - name: Uniplex
+    abbrev: UNI
+    brief: Uniplex marks an individual instance.  
+  - name: Duplex
+    abbrev: DUP
+    brief: Duplex indicates a pair of instances.  
+  - name: Discrete
+    abbrev: DCT
+    brief: Discrete refers to a group of several similar instances.  
+  - name: Aggregative
+    abbrev: AGG
+    brief: Aggregative denotes a collection of dissimilar instances.  
+  - name: Segmentative
+    abbrev: SEG
+    brief: Segmentative refers to a close or contiguous grouping of similar instances.  
+  - name: Componential
+    abbrev: CPN
+    brief: Componential denotes a close or contiguous collection of dissimilar instances.  
+  - name: Coherent
+    abbrev: COH
+    brief: Coherent indicates connected collection of similar instances.  
+  - name: Composite
+    abbrev: CST
+    brief: Composite refers to a connected collection of dissimilar instances.  
+  - name: Multiform
+    abbrev: MLT
+    brief: Multiform denotes a borderline or questionable instance of a stem.  
+
+

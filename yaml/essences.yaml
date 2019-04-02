@@ -1,0 +1,12 @@
+---
+name: Essence
+brief: false
+values:
+  - name: Normal
+    brief: false
+    abbrev: NRM
+  - name: Representat
+    brief: false
+    abbrev: RPV
+...
+    
