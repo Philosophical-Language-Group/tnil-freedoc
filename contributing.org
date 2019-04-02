@@ -1,0 +1,23 @@
+#+title: Contributing to Ithkuil Freedoc
+* How to contribute?
+It's easy to contribute to Ithkuil Freedoc project.
+
+* Writing category descriptions
+Category descriptions are [[https://yaml.org][YAML]] files with a simple structure.
+
+
+
+#+BEGIN_SRC yaml :tangle ./yaml/_category_template.yaml
+  ---
+  name: CATEGORY NAME
+  brief: BRIEF DESCRIPTION OF CATEGORY
+  full: MORE IN DEPTH DESCRIPTION OF CATEGORY, POSSIBLY CONSISTING OF SEVERAL PARAGRAPHS.
+  values:
+    - name: CATEGORY VALUE 1
+      brief: CATEGORY VALUE 1 SUMMARY
+      abbrev: CVN1
+    - name: CATEGORY VALUE 2 NAME
+      brief: CATEGORY VALUE 2 SUMMARY
+      abbrev: CVN2
+  ...
+#+END_SRC

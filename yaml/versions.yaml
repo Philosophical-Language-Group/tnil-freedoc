@@ -1,0 +1,10 @@
+---
+name: Version
+brief: Version shows whether a verbal stem is goal- or process-driven.
+values:
+  - name: Processual
+    abbrev: PRC
+  - name: Completive
+    abbrev: CPT
+...
+    

@@ -1,0 +1,27 @@
+{
+  "name": "ithkuil_freedoc",
+  "version": "1.0.0",
+  "description": "Libre documentation for Ithkuil, TNIL, and related languages.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/porpoiseless/ithkuil_graphics.git"
+  },
+  "keywords": [
+    "conlang",
+    "documentation",
+    "icons"
+  ],
+  "author": "porpoiseless",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/porpoiseless/ithkuil_graphics/issues"
+  },
+  "homepage": "https://github.com/porpoiseless/ithkuil_graphics#readme"
+}
