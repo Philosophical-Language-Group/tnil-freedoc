@@ -8,7 +8,7 @@ function svg_to_png () {
     echo $path
     file=${path##*/}
     base=${file%%.*}
-    [ -e $path ] && inkscape $path -e $output_dir/preview-${base}.png
+    [ -e $path ] && inkscape $path -d 24 -e $output_dir/preview-${base}.png
 }
 for f in $input_dir/*.svg
 do
