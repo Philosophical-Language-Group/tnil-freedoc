@@ -1,36 +1,53 @@
 #+title: Libre Ithkuil & TNIL documentation  
 * Overview
-[[http://ithkuil.net/][Ithkuil]] is a constructed language created by John Quijada, and TNIL is a successor language sharing many of its design values.
+[[http://ithkuil.net/][Ithkuil]] is a constructed language created by John Quijada, and TNIL is
+a successor language sharing many of its design values.
 
-This repo contains a community-driven, libre set of documentation for the language family, including graphics illustrating several morphological categories.
+This repo contains a community-driven, libre set of documentation for
+the language family, including graphics illustrating several
+morphological categories.
 
 * Documentation
-Categories shall be documented in markdown. Each category requires:
+Categories shall be documented in yaml. Each category requires:
  * a name,
- * an overview appropriate for a tool-tip (2 sentences max),
+ * an overview appropriate for a tool-tip (2 sentences max).
  * an thorough explanation of a few paragraphs,
  * a listing of category values.
 
-Each category value will also have:
+Each category value shall also have:
  * a name,
+ * an abbreviation
  * a brief description,
  * an in depth version with optional illustration.
 
+Style notes:
+ * Brief descriptions should begin with a verb and omit the name of
+   the category/value that is the subject of the verb. For instance,
+   "refers to a single instance" instead of "Uniplex refers to a
+   single instance".
+
 * Graphics
 Graphics are available for several categories.
-Each category value illustration should be an SVG object less than 512×512 px.
+
+Each category value illustration should be an SVG object less than
+512×512 px.
 
 ** Configuration
-Configuration describes the physical similarity and spatial connectedness of the items named by the root.
+Configuration describes the physical similarity and spatial
+connectedness of the items named by the root.
 [[file:./output/preview-configurations.png]]
 ** Affiliation
-Affiliation communicates similarities and dissimilarities of use and purpose between  members of the configurative set.
+Affiliation communicates similarities and dissimilarities of use and
+purpose between members of the configurative set.
 [[file:./output/preview-affiliations.png]]
 ** Perspective
-Perspective quantifies the configurative set as a single, multiple, universal, or conceptual instance of the root.
+Perspective quantifies the configurative set as a single, multiple,
+universal, or conceptual instance of the root.
 [[file:./output/preview-perspectives.png]]
 ** Extension
-Extension picks out a spatiotemporal part of the set (beginning, end), its dynamics (increasing, decreasing), and its characterization as either circumscribed by or transcending the discursive context. 
+Extension picks out a spatiotemporal part of the set (beginning, end),
+its dynamics (increasing, decreasing), and its characterization as
+either circumscribed by or transcending the discursive context.
 [[file:./output/preview-extensions.png]]
 
 * Contributing
