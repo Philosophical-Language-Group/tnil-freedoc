@@ -1,0 +1,26 @@
+#+title: Progress
+* Create documentation for all categories
+- [X] Affiliation
+- [X] Configuration
+- [X] Extension
+- [X] Perspective
+- [X] Essence
+- [X] Context
+- [X] Illocution
+- [X] Sanction
+- [ ] Phase
+- [ ] Valence
+- [ ] Mood
+- [ ] Level
+- [ ] Effect
+- [ ] Aspect
+- [0/8] case
+  - [ ] Transrelative
+  - [ ] Appositive
+  - [ ] Associative
+  - [ ] Adverbial
+  - [ ] Spatio-Temporal I
+  - [ ] Spatio-Temporal Ii
+  - [ ] Relational I
+  - [ ] Relational II
+    
