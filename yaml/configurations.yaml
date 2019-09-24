@@ -1,32 +1,32 @@
 ---
 name: Configuration
-brief: Describes the physical (dis)similarity and spatiotemporal connectedness of the item(s) named by the stem.
+brief: describes the physical (dis)similarity and spatiotemporal connectedness of the item(s) named by the stem.
 values:
   - name: Uniplex
     abbrev: UNI
-    brief: Marks an individual instance.  
+    brief: marks an individual instance.  
   - name: Duplex
     abbrev: DUP
-    brief: Indicates a pair of instances.  
+    brief: indicates a pair of instances.  
   - name: Discrete
     abbrev: DCT
-    brief: Discrete refers to a group of several similar instances.  
+    brief: discrete refers to a group of several similar instances.  
   - name: Aggregative
     abbrev: AGG
-    brief: Denotes a collection of dissimilar instances.  
+    brief: denotes a collection of dissimilar instances.  
   - name: Segmentative
     abbrev: SEG
-    brief: Refers to a close or contiguous grouping of similar instances.  
+    brief: refers to a close or contiguous grouping of similar instances.  
   - name: Componential
     abbrev: CPN
-    brief: Denotes a close or contiguous collection of dissimilar instances.  
+    brief: denotes a close or contiguous collection of dissimilar instances.  
   - name: Coherent
     abbrev: COH
-    brief: Indicates connected collection of similar instances.  
+    brief: indicates connected collection of similar instances.  
   - name: Composite
     abbrev: CST
-    brief: Refers to a connected collection of dissimilar instances.  
+    brief: refers to a connected collection of dissimilar instances.  
   - name: Multiform
     abbrev: MLT
-    brief: Denotes a borderline or questionable instance of a stem.
+    brief: denotes a borderline or questionable instance of a stem.
 ...
