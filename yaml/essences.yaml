@@ -1,12 +1,12 @@
 ---
 name: Essence
-brief: false
+brief: distinguishes between the real and the imaginary.
 values:
   - name: Normal
-    brief: false
+    brief: indicates an actually existing referent.
     abbrev: NRM
-  - name: Representat
-    brief: false
+  - name: Representative
+    brief: marks a hypothetical, imaginary, or unrealized referent.
     abbrev: RPV
 ...
     
