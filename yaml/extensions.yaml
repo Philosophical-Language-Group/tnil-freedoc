@@ -1,4 +1,24 @@
 ---
 name: Extension
-brief: Extension picks out a spatiotemporal part of the set (beginning, end), its dynamics (increasing, decreasing), and its characterization as either circumscribed by or transcending the discursive context.
+brief: indicates whether a set transcends or remains within the discursive context; or picks out a spatiotemporal part and dynamics of the set.
+values:
+  - name: Delimitive
+    brief: marks the set as discrete, with boundaries accessible to the discursive context.
+    abbrev: DEL
+  - name: Proximal
+    brief: indicates that the set transcends the current context, or without accessible limits. 
+    abbrev: PRX
+  - name: Inceptive
+    brief: refers to the spatiotemporal beginning of the set.
+    abbrev: ICP
+  - name: Attenuative
+    brief: describes the spatiotemporal end of the set.
+    abbrev: ATV
+  - name: Graduative
+    brief: indicates an increase in the degree or quantity of the set. 
+    abbrev: GRA
+  - name: Depletive
+    brief: marks a decrease in the degree or quantity of the set.
+    abbrev: DPL
+
 ...
