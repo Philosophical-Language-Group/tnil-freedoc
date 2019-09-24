@@ -1,10 +1,12 @@
 ---
 name: Version
-brief: Version shows whether a verbal stem is goal- or process-driven.
+brief: Shows whether a verbal stem is goal- or process-driven.
 values:
   - name: Processual
+    brief: Marks a state or action that is an end in itself.
     abbrev: PRC
   - name: Completive
+    brief: Marks a result-driven state or action.
     abbrev: CPT
 ...
     
