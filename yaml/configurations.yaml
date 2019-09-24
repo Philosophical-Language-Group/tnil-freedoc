@@ -28,6 +28,5 @@ values:
     brief: Refers to a connected collection of dissimilar instances.  
   - name: Multiform
     abbrev: MLT
-    brief: Denotes a borderline or questionable instance of a stem.  
-
-
+    brief: Denotes a borderline or questionable instance of a stem.
+...
