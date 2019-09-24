@@ -1,0 +1,328 @@
+* Versions
+  #+name: versions
+  | abbrev | name       | description |
+  |--------+------------+-------------|
+  | prc    | processual |             |
+  | cpt    | completive |             |
+* Valences
+  #+name: valences
+  | abbrev | name          | description |
+  |--------+---------------+-------------|
+  | mno    | monoactive    |             |
+  | prl    | parallel      |             |
+  | cro    | corollary     |             |
+  | rcp    | reciprocal    |             |
+  | cpl    | complementary |             |
+  | dup    | duplicative   |             |
+  | dem    | demonstrative |             |
+  | imt    | imitative     |             |
+  | cng    | contingent    |             |
+  | pti    | participative |             |
+  | idc    | indicative    |             |
+  | mut    | mutual        |             |
+* Illocutions
+  #+name: illocutions
+  | abbrev | name          | description |
+  |--------+---------------+-------------|
+  | cnf    | confirmative  |             |
+  | inf    | inferential   |             |
+  | itu    | intuitive     |             |
+  | rev    | revelatory    |             |
+  | hsy    | hearsay       |             |
+  | usp    | unspecified   |             |
+  | dir    | directive     |             |
+  | pot    | potentiative  |             |
+  | irg    | interrogative |             |
+* Sanctions
+  #+name: sanctions
+  | abbrev | name          | description |
+  |--------+---------------+-------------|
+  | pps    | propositional |             |
+  | epi    | epistemic     |             |
+  | alg    | allegative    |             |
+  | ipu    | imputative    |             |
+  | rfu    | refutative    |             |
+  | reb    | rebuttative   |             |
+  | cjt    | conjectural   |             |
+  | exv    | expatiative   |             |
+  | axm    | axiomatic     |             |
+* Phases
+  #+name: phases
+  | abbrev | name          | description |
+  |--------+---------------+-------------|
+  | ctx    | contextual    |             |
+  | pct    | punctual      |             |
+  | itr    | iterative     |             |
+  | rep    | repetitive    |             |
+  | itm    | intermittent  |             |
+  | rct    | recurrent     |             |
+  | fre    | frequentative |             |
+  | frg    | fragmentative |             |
+  | flc    | fluctuative   |             |
+* Levels
+  #+name: levels
+  |----------+---------------+---|
+  | absolute | absolute      |   |
+  | relative | relative      |   |
+  | min      | minimal       |   |
+  | sbe      | subequative   |   |
+  | ifr      | inferior      |   |
+  | dfv      | deficient     |   |
+  | equ      | equative      |   |
+  | sur      | surpassive    |   |
+  | spl      | superlative   |   |
+  | spq      | superequative |   |
+  | max      | maximal       |   |
+* Aspects
+  #+name: aspects
+  | abbrev | name             | description |
+  |--------+------------------+-------------|
+  | rtr    | retrospective    |             |
+  | prs    | prospective      |             |
+  | hab    | habitual         |             |
+  | prg    | progressive      |             |
+  | imm    | imminent         |             |
+  | pcs    | precessive       |             |
+  | reg    | regulative       |             |
+  | exp    | experiential     |             |
+  | atp    | anticipatory     |             |
+  | rsm    | resumptive       |             |
+  | css    | cessative        |             |
+  | pau    | pausal           |             |
+  | rgr    | regressive       |             |
+  | pcl    | preclusive       |             |
+  | cnt    | continuative     |             |
+  | inc    | incessative      |             |
+  | smm    | summative        |             |
+  | irp    | interruptive     |             |
+  | pmp    | preemptive       |             |
+  | clm    | climactic        |             |
+  | dlt    | dilatory         |             |
+  | tmp    | temporary        |             |
+  | mtv    | motive           |             |
+  | sqn    | sequential       |             |
+  | epd    | expeditive       |             |
+  | ptc    | protractive      |             |
+  | ppr    | preparatory      |             |
+  | dcl    | disclusive       |             |
+  | ccl    | conclusive       |             |
+  | cul    | culminative      |             |
+  | imd    | intermediative   |             |
+  | trd    | tardative        |             |
+  | tns    | transitional     |             |
+  | itc    | intercommutative |             |
+  | csm    | consumptive      |             |
+  | lim    | limitative       |             |
+* Functions
+  #+name: functions
+  | abbrev | name    | description                  |
+  |--------+---------+------------------------------|
+  | sta    | stative | spatial instance or state    |
+  | dyn    | dynamic | temporal instance or process |
+* Specifications
+  #+name: specifications
+| abbrev | name           | description                                  |
+|--------+----------------+----------------------------------------------|
+| bsc    | basic          | default instantiation of root                |
+| cte    | content        | content or essence of root                   |
+| csv    | constitutive   | form/shape of root                           |
+| obj    | objective      | target, object, stimulus of root             |
+| fcl    | facilitative   | function/be used as/fulfill role of root     |
+| fnd    | foundational   | cause/reason/source of root                  |
+| int    | intentive      | use/purpose/intent of root                   |
+| exp    | experiential   | experience/feeling/sensation of root         |
+| prq    | prerequisitive | underlying premise or presupposition of root |
+* Moods
+  #+name: moods
+  | abbrev | name           | description |
+  |--------+----------------+-------------|
+  | fac    | factual        |             |
+  | sub    | subjunctive    |             |
+  | asm    | assumptive     |             |
+  | spc    | speculative    |             |
+  | cou    | counterfactive |             |
+  | hyp    | hypothetical   |             |
+  | ipl    | implicative    |             |
+  | asc    | ascriptive     |             |
+* Perspectives
+  #+name: perspectives
+  | abbrev | name     | description |
+  |--------+----------+-------------|
+  | m      | monadic  |             |
+  | p      | polyadic |             |
+  | n      | nomic    |             |
+  | a      | abstract |             |
+* Extensions
+  #+name: extensions
+  | abbrev | name         | description |
+  |--------+--------------+-------------|
+  | del    | delimitative |             |
+  | prx    | proximal     |             |
+  | icp    | incipient    |             |
+  | atv    | attenuative  |             |
+  | gra    | graduative   |             |
+  | dpl    | depletive    |             |
+* Affiliations
+  #+name: affiliations
+  | abbrev | name          | description |
+  |--------+---------------+-------------|
+  | csl    | consolidative |             |
+  | aso    | associative   |             |
+  | var    | variative     |             |
+  | coa    | coalescent    |             |
+* Configurations
+  #+name: configurations
+  | abbrev | name         | description |
+  |--------+--------------+-------------|
+  | uni    | uniplex      |             |
+  | dup    | duplex       |             |
+  | dct    | discrete     |             |
+  | agg    | aggregative  |             |
+  | seg    | segmentative |             |
+  | cpn    | componential |             |
+  | coh    | coherent     |             |
+  | cst    | composite    |             |
+  | mlt    | multiform    |             |
+* Essences
+  #+name: essences
+  | abbrev | name           | description |
+  |--------+----------------+-------------|
+  | nrm    | normal         |             |
+  | rpv    | representative |             |
+* Transrelatives
+  #+name: transrelatives
+  | abbrev | name         | description                |
+  |--------+--------------+----------------------------|
+  | thm    | thematic     | theme/content/stimulus     |
+  | abs    | absolutive   | patient                    |
+  | erg    | ergative     | agent                      |
+  | ind    | inducive     | both agent & patient       |
+  | aff    | affective    | experiencer/undergoer      |
+  | dat    | dative       | recipient of object/action |
+  | eff    | effectuative | enabler                    |
+  | der    | derivative   | causal force               |
+  | ins    | instrumental | instrument/means           |
+* Appositives
+  #+name: appositives
+  | abbrev | name           | description                                 |
+  |--------+----------------+---------------------------------------------|
+  | pos    | possessive     | alienable possessor                         |
+  | prp    | proprietive    | owner                                       |
+  | gen    | genitive       | inalienable possessor                       |
+  | att    | attributive    | experiencer of own attribute/characteristic |
+  | pdc    | productive     | originator/creator/author                   |
+  | itp    | interpretive   | interpreting/describing party               |
+  | ogn    | originative    | origin or source                            |
+  | idp    | interdependent | complementary part                          |
+  | par    | partitive      | portion/enumeration                         |
+* Associatives
+  #+name: associatives
+  | abbrev | name          | description                 |
+  |--------+---------------+-----------------------------|
+  | apl    | applicative   | (actual) purpose/function   |
+  | pur    | purposive     | (intended) purpose/function |
+  | ben    | benefactive   | beneficiary                 |
+  | dfr    | deferential   |                             |
+  | tsp    | transpositive |                             |
+  | crs    | contrastive   |                             |
+  | cmm    | commutative   |                             |
+  | csd    | considerative |                             |
+  | cfm    | conformative  |                             |
+* Adverbials
+  #+name: adverbials
+  | abbrev | name           | description |
+  |--------+----------------+-------------|
+  | con    | concessive     |             |
+  | avr    | aversive       |             |
+  | cvs    | conversive     |             |
+  | sit    | situative      |             |
+  | tfm    | transformative |             |
+  | fun    | functive       |             |
+  | cla    | classificative |             |
+  | irs    | irrespective   |             |
+  | rsl    | resultative    |             |
+* Spatiotemporals 1
+  #+name: spatiotemporals-1
+  | abbrev | name          | description |
+  |--------+---------------+-------------|
+  | loc    | locative      |             |
+  | atd    | attendant     |             |
+  | odn    | orientative   |             |
+  | all    | allative      |             |
+  | abl    | ablative      |             |
+  | nav    | navigative    |             |
+  | int    | intrative     |             |
+  | irl    | interrelative |             |
+  | prt    | precurrent    |             |
+* Spatiotemporals 2
+  #+name: spatiotemporals-2
+  | abbrev | name        | description |
+  |--------+-------------+-------------|
+  | ass    | assessive   |             |
+  | acs    | accessive   |             |
+  | cnr    | concursive  |             |
+  | per    | periodic    |             |
+  | pro    | prolapsive  |             |
+  | pcv    | precursive  |             |
+  | pcr    | postcursive |             |
+  | elp    | elapsive    |             |
+  | plm    | prolimitive |             |
+* Relationals 1
+  #+name: relationals-1
+  | abbrev | name         | description |
+  |--------+--------------+-------------|
+  | ref    | referential  |             |
+  | cor    | correlative  |             |
+  | cps    | compositive  |             |
+  | dep    | dependent    |             |
+  | pvs    | provisional  |             |
+  | prd    | predicative  |             |
+  | ess    | essive       |             |
+  | asi    | assimilative |             |
+  | sbl    | semblative   |             |
+* Relationals 2
+  #+name: relationals-2
+  | abbrev | name        | description |
+  |--------+-------------+-------------|
+  | voc    | vocative    |             |
+  | sel    | selective   |             |
+  | com    | comitative  |             |
+  | cnj    | conjunctive |             |
+  | utl    | utilitative |             |
+  | dsc    | descriptive |             |
+  | rlt    | relative    |             |
+  | trm    | terminative |             |
+  | cmp    | comparative |             |
+* Contexts
+  #+name: contexts
+  | abbrev | name             | description |
+  |--------+------------------+-------------|
+  | exs    | existential      |             |
+  | fnc    | functional       |             |
+  | rps    | representational |             |
+  | amg    | amalgamative     |             |
+* Registers
+  #+name: registers
+  | abbrev          | name            | description |
+  |-----------------+-----------------+-------------|
+  | discursive      | discursive      |             |
+  | parenthetical   | parenthetical   |             |
+  | cogitant        | cogitant        |             |
+  | exemplificative | exemplificative |             |
+  | impressionistic | impressionistic |             |
+* PRAs
+  #+name: pras
+  | abbrev | name                    | description |
+  |--------+-------------------------+-------------|
+  | 1m     | speaker (m)             |             |
+  | 2m     | addressee (m)           |             |
+  | 2p     | addressee (p)           |             |
+  | ma     | 3rd party animate (m)   |             |
+  | pa     | 3rd party animate (p)   |             |
+  | mi     | 3rd party inanimate (m) |             |
+  | pi     | 3rd party inanimate (p) |             |
+  | ipa    | impersonal animate      |             |
+  | ipi    | impersonal inanimate    |             |
+  | obv    | obviative/resumptive    |             |
+  | col    | 3rd party (a)           |             |
+  | abt    | 3rd party (n)           |             |
