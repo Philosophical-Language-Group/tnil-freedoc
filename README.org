@@ -1,4 +1,4 @@
-#+title: Libre Ithkuil & TNIL documentation  
+#+title: Libre Ithkuil & TNIL documentation
 * Overview
 [[http://ithkuil.net/][Ithkuil]] is a constructed language created by John Quijada, and TNIL is
 a successor language sharing many of its design values.
@@ -7,8 +7,11 @@ This repo contains a community-driven, libre set of documentation for
 the language family, including graphics illustrating several
 morphological categories.
 
-* Documentation
-Categories shall be documented in yaml. Each category requires:
+* Contributing to documentation
+Categories shall be documented in yaml, in the folder of the same
+name.
+
+Each category requires:
  * a name,
  * an overview appropriate for a tool-tip (2 sentences max).
  * an thorough explanation of a few paragraphs,
@@ -20,7 +23,7 @@ Each category value shall also have:
  * a brief description,
  * an in depth version with optional illustration.
 
-Style notes:
+** Style notes:
  * Brief descriptions should begin with a verb and omit the name of
    the category/value that is the subject of the verb. For instance,
    "refers to a single instance" instead of "Uniplex refers to a
