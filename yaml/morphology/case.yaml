@@ -1,5 +1,371 @@
 ---
-name: Case
+name: case
 brief: TODO
-values: TODO
+groups:
+  - name: transrelative
+    brief: TODO
+    members:
+      - THM
+      - INS
+      - ABS
+      - STM
+      - AFF
+      - EFF
+      - ERG
+      - DAT
+      - IND
+  - name: appositive
+    brief: TODO
+    members:
+      - POS
+      - PRP
+      - GEN
+      - ATT
+      - PDC
+      - ITP
+      - OGN
+      - IDP
+      - PAR
+  - name: associative
+    brief: TODO
+    members:
+      - APL
+      - PUR
+      - TRA
+      - DFR
+      - CRS
+      - TSP
+      - CMM
+      - CMP
+      - CSD
+  - name: adverbial
+    brief: TODO
+    members:
+      - CON
+      - AVR
+      - CVS
+      - SIT
+      - FUN
+      - TFM
+      - CLA
+      - CSM
+      - RSL
+  - name: spatio-temporal I
+    brief: TODO
+    members:
+      - LOC
+      - ATD
+      - ALL
+      - ABL
+      - ORI
+      - IRL
+      - INV
+      - NAV
+  - name: spatio-temporal II
+    brief: TODO
+    members:
+      - ASS
+      - CNR
+      - PER
+      - PRO
+      - PCV
+      - PCR
+      - ELP
+      - PLM
+  - name: relational I
+    brief: TODO
+    members:
+      - REF
+      - COR
+      - CPS
+      - DEP
+      - PRD
+      - ESS
+      - ASI
+      - CFM
+  - name: relational II
+    brief: TODO
+    members:
+      - ACT
+      - SEL
+      - COM
+      - UTL
+      - DSC
+      - RLT
+      - TRM
+      - VOC
+values:
+  - abbr: THM
+    name: thematic
+    brief: content
+    full: TODO
+  - abbr: INS
+    name: instrumental
+    brief: used by agent to accomplish action
+    full: TODO
+  - abbr: ABS
+    name: absolutive
+    brief: patient
+    full: TODO
+  - abbr: STM
+    name: stimulative
+    brief: non-deliberate stimulus
+    full: TODO
+  - abbr: AFF
+    name: affective
+    brief: experiencer
+    full: TODO
+  - abbr: EFF
+    name: effectuative
+    brief: enabler
+    full: TODO
+  - abbr: ERG
+    name: ergative
+    brief: agent
+    full: TODO
+  - abbr: DAT
+    name: dative
+    brief: indirect object
+    full: TODO
+  - abbr: IND
+    name: inducive
+    brief: agent and patient
+    full: TODO
+  - abbr: POS
+    name: possessive
+    brief: alienable control/oversight
+    full: TODO
+  - abbr: PRP
+    name: proprietive
+    brief: official/accepted possession
+    full: TODO
+  - abbr: GEN
+    name: genitive
+    brief: inalienable/intrinsic possession
+    full: TODO
+  - abbr: ATT
+    name: attributive
+    brief: TODO
+    full: TODO
+  - abbr: PDC
+    name: productive
+    brief: creator/author/originator
+    full: TODO
+  - abbr: ITP
+    name: interpretive
+    brief: subjective interpretational context
+    full: TODO
+  - abbr: OGN
+    name: originative
+    brief: literal/figurative origin
+    full: TODO
+  - abbr: IDP
+    name: interdependent
+    brief: mututally dependent
+    full: TODO
+  - abbr: PAR
+    name: partitive
+    brief: quantitative or content of container
+    full: TODO
+  - abbr: APL
+    name: applicative
+    brief: current utilization/purpose
+    full: TODO
+  - abbr: PUR
+    name: purposive
+    brief: intended utilization/purpose
+    full: TODO
+  - abbr: TRA
+    name: transmissive
+    # TODO review/revise this brief
+    brief: recipient of benefit/detriment
+    full: TODO
+  - abbr: DER
+    name: deferential
+    brief: “for the sake of X”
+    full: TODO
+  - abbr: CRS
+    name: contrastive
+    brief: “as a substitute for X”
+    full: TODO
+  - abbr: TSP
+    name: transpositive
+    brief: “on behalf of X”
+    full: TODO
+  - abbr: CMM
+    name: commutative
+    brief: “in exchange for X”
+    full: TODO
+  - abbr: CMP
+    name: comparative
+    brief: “in comparison to X”
+    full: TODO
+  - abbr: CSD
+    name: considerative
+    brief: “according to X”
+    full: TODO
+  - abbr: CON
+    name: concessive
+    brief: “despite X”
+    full: TODO
+  - abbr: AVR
+    name: aversive
+    brief: “to avoid X” / “lest X”
+    full: TODO
+  - abbr: CVS
+    name: conversive
+    brief: ____
+    full: TODO
+  - abbr: SIT
+    name: situative
+    brief: ____
+    full: TODO
+  - abbr: FUN
+    name: functive
+    brief: ____
+    full: TODO
+  - abbr: TFM
+    name: transformative
+    brief: ____
+    full: TODO
+  - abbr: CLA
+    name: classificative
+    brief: ____
+    full: TODO
+  - abbr: CSM
+    name: consumptive
+    brief: ____
+    full: TODO
+  - abbr: RSL
+    name: resultative
+    brief: ____
+    full: TODO
+  - abbr: LOC
+    name: locative
+    brief: ____
+    full: TODO
+  - abbr: ATD
+    name: attendant
+    brief: ____
+    full: TODO
+  - abbr: ALL
+    name: allative
+    brief: ____
+    full: TODO
+  - abbr: ABL
+    name: ablative
+    brief: ____
+    full: TODO
+  - abbr: ORI
+    name: orientative
+    brief: ____
+    full: TODO
+  - abbr: IRL
+    name: interrelative
+    brief: ____
+    full: TODO
+  - abbr: INV
+    name: intrative
+    brief: ____
+    full: TODO
+  - abbr: NAV
+    name: navigative
+    brief: ____
+    full: TODO
+  - abbr: ASS
+    name: assessive
+    brief: ____
+    full: TODO
+  - abbr: CNR
+    name: concursive
+    brief: ____
+    full: TODO
+  - abbr: PER
+    name: periodic
+    brief: ____
+    full: TODO
+  - abbr: PRO
+    name: prolapsive
+    brief: ____
+    full: TODO
+  - abbr: PCV
+    name: precursive
+    brief: ____
+    full: TODO
+  - abbr: PCR
+    name: postcursive
+    brief: ____
+    full: TODO
+  - abbr: ELP
+    name: elapsive
+    brief: ____
+    full: TODO
+  - abbr: PLM
+    name: prolimitive
+    brief: ____
+    full: TODO
+  - abbr: REF
+    name: referential
+    brief: ____
+    full: TODO
+  - abbr: COR
+    name: correlative
+    brief: ____
+    full: TODO
+  - abbr: CPS
+    name: compositive
+    brief: ____
+    full: TODO
+  - abbr: DEP
+    name: dependent
+    brief: ____
+    full: TODO
+  - abbr: PRD
+    name: predicative
+    brief: ____
+    full: TODO
+  - abbr: ESS
+    name: essive
+    brief: ____
+    full: TODO
+  - abbr: ASI
+    name: assimilative
+    brief: ____
+    full: TODO
+  - abbr: CFM
+    name: conformative
+    brief: ____
+    full: TODO
+  - abbr: ACT
+    name: activative
+    brief: ____
+    full: TODO
+  - abbr: SEL
+    name: selective
+    brief: ____
+    full: TODO
+  - abbr: COM
+    name: comitative
+    brief: ____
+    full: TODO
+  - abbr: UTL
+    name: utilitative
+    brief: ____
+    full: TODO
+  - abbr: DSC
+    name: descriptive
+    brief: ____
+    full: TODO
+  - abbr: RLT
+    name: relative
+    brief: ____
+    full: TODO
+  - abbr: TRM
+    name: terminative
+    brief: ____
+    full: TODO
+  - abbr: VOC
+    name: vocative
+    brief: ____
+    full: TODO
 ...
