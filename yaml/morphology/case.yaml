@@ -210,23 +210,23 @@ values:
     full: TODO
   - abbr: AVR
     name: aversive
-    brief: “to avoid X” / “lest X”
+    brief: “to avoid X”
     full: TODO
   - abbr: CVS
     name: conversive
-    brief: ____
+    brief: exception
     full: TODO
   - abbr: SIT
     name: situative
-    brief: ____
+    brief: cause/context
     full: TODO
   - abbr: FUN
     name: functive
-    brief: ____
+    brief: manner/characterization
     full: TODO
   - abbr: TFM
     name: transformative
-    brief: ____
+    brief: final state of transformative process
     full: TODO
   - abbr: CLA
     name: classificative
@@ -238,7 +238,7 @@ values:
     full: TODO
   - abbr: RSL
     name: resultative
-    brief: ____
+    brief: result/consequence of event
     full: TODO
   - abbr: LOC
     name: locative
