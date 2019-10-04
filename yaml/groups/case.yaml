@@ -1,0 +1,94 @@
+---
+- name: transrelative
+  brief: TODO
+  members:
+    - THM
+    - INS
+    - ABS
+    - STM
+    - AFF
+    - EFF
+    - ERG
+    - DAT
+    - IND
+- name: appositive
+  brief: TODO
+  members:
+    - POS
+    - PRP
+    - GEN
+    - ATT
+    - PDC
+    - ITP
+    - OGN
+    - IDP
+    - PAR
+- name: associative
+  brief: TODO
+  members:
+    - APL
+    - PUR
+    - TRA
+    - DFR
+    - CRS
+    - TSP
+    - CMM
+    - CMP
+    - CSD
+- name: adverbial
+  brief: TODO
+  members:
+    - CON
+    - AVR
+    - CVS
+    - SIT
+    - FUN
+    - TFM
+    - CLA
+    - CSM
+    - RSL
+- name: spatio-temporal I
+  brief: TODO
+  members:
+    - LOC
+    - ATD
+    - ALL
+    - ABL
+    - ORI
+    - IRL
+    - INV
+    - NAV
+- name: spatio-temporal II
+  brief: TODO
+  members:
+    - ASS
+    - CNR
+    - PER
+    - PRO
+    - PCV
+    - PCR
+    - ELP
+    - PLM
+- name: relational I
+  brief: TODO
+  members:
+    - REF
+    - COR
+    - CPS
+    - DEP
+    - PRD
+    - ESS
+    - ASI
+    - CFM
+- name: relational II
+  brief: TODO
+  members:
+    - ACT
+    - SEL
+    - COM
+    - UTL
+    - DSC
+    - RLT
+    - TRM
+    - VOC
+...
