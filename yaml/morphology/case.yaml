@@ -101,7 +101,7 @@ values:
     full: TODO
   - abbr: INS
     name: instrumental
-    brief: used by agent to accomplish action
+    brief: object used by agent to accomplish action
     full: TODO
   - abbr: ABS
     name: absolutive
@@ -230,55 +230,55 @@ values:
     full: TODO
   - abbr: CLA
     name: classificative
-    brief: ____
+    brief: manner of arrangement/classification/counting
     full: TODO
   - abbr: CSM
     name: consumptive
-    brief: ____
+    brief: object consumed in process
     full: TODO
   - abbr: RSL
     name: resultative
-    brief: result/consequence of event
+    brief: result/consequence
     full: TODO
   - abbr: LOC
     name: locative
-    brief: ____
+    brief: location
     full: TODO
   - abbr: ATD
     name: attendant
-    brief: ____
+    brief: entity present
     full: TODO
   - abbr: ALL
     name: allative
-    brief: ____
+    brief: “moving toward X”
     full: TODO
   - abbr: ABL
     name: ablative
-    brief: ____
+    brief: “moving from X”
     full: TODO
   - abbr: ORI
     name: orientative
-    brief: ____
+    brief: orientational reference
     full: TODO
   - abbr: IRL
     name: interrelative
-    brief: ____
+    brief: spatiotemporal positional reference
     full: TODO
   - abbr: INV
     name: intrative
-    brief: ____
+    brief: spatiotemporal span
     full: TODO
   - abbr: NAV
     name: navigative
-    brief: ____
+    brief: path of motion
     full: TODO
   - abbr: ASS
     name: assessive
-    brief: ____
+    brief: unit by which something happens or is measured
     full: TODO
   - abbr: CNR
     name: concursive
-    brief: ____
+    brief: time of occurrence
     full: TODO
   - abbr: PER
     name: periodic
