@@ -25,10 +25,13 @@ Each category value shall also have:
  * an in depth version with optional illustration.
 
 ** Style notes:
- * Brief descriptions should begin with a verb and omit the name of
-   the category/value that is the subject of the verb. For instance,
-   "refers to a single instance" instead of "Uniplex refers to a
-   single instance".
+Brief descriptions should follow these guidelines"
+ * begin with a lowercase letter
+ * have no punctuation at the end
+ * be a noun phrase:
+   * good: "a single instance"
+   * bad: "refers to a single instance"
+   * bad: "Uniplex refers to a single instance."
 
 * Graphics
 Graphics are available for several categories.
