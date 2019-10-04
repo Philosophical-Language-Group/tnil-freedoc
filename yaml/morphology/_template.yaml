@@ -1,0 +1,48 @@
+---
+name: category
+brief: brief phrase-length description of this category
+full: |
+  This is a more in-depth description of Category, usually beginning with the
+  name of the category. It may be several paragraphs in length, and should be
+  wrapped to ~80 characters to keep things consistent.
+
+  Not that the "literal" block scalar style (`|`) is used here rather than
+  "folded" (`>`), so newlines are preserved as-is. This is desirable when
+  rendering to Markdown, but in other cases, be aware of newlines. YAML
+  terminates the entire with a single newline when parsed.
+
+  Note that `name` and `brief` are lowercased initially, while `abbrev` (later)
+  and `full` are capitalized appropraitely. `name` and `brief` should be
+  capitalized according to context, whereas `abbrev` and `full` are always
+  capitalized.
+
+values:
+  - abbrev: CV1
+    name: value A
+    brief: brief phrase-length description of value A
+    full: >
+      Once again, this is a paragraph or two about Value A. The full description
+      should avoid reusing language from the brief description, but should still
+      give a solid overview of the category; i.e. it should not assume that the
+      reader has seen the brief description, but it should not feel repetitive
+      in case they have.
+
+      This full description is optional; you'll note that CV2 has none. Still,
+      nearly all category values should have one. (Only numerical categories,
+      like stem or VxCs degree, do not need it.) Brief descriptions, on the
+      other hand, are always required.
+  - abbrev: CV2
+    name: value B
+    brief: a few words
+  - abbrev: CV3
+    name: value C
+    brief: “looks like X in a sentence”
+    full: >
+      Briefs can contain quoted translations as well, using smart double quotes
+      `“…”` and a single capital `X` in place of the word carrying the value. A
+      non-quoted description is generally better, but sometimes literal words
+      are the most efficient way to describe something. Be careful to select a
+      translation that disambiguates from other values; e.g. “instead of X”
+      could be used as a translation for multiple Cases, but “to avoid X” only
+      fits one.
+...
