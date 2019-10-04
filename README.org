@@ -9,30 +9,7 @@ TNIL family, including graphics illustrating several
 morphological categories.
 
 * Contributing to documentation
-Categories shall be documented in yaml, in the folder of the same
-name.
-
-Each category requires:
- * a name,
- * an overview appropriate for a tool-tip (2 sentences max).
- * an thorough explanation of a few paragraphs,
- * a listing of category values.
-
-Each category value shall also have:
- * a name,
- * an abbreviation
- * a brief description,
- * an in depth version with optional illustration.
-
-** Style notes:
-Brief descriptions should follow these guidelines"
- * begin with a lowercase letter
- * have no punctuation at the end
- * be a noun phrase:
-   * good: "a single instance"
-   * bad: "refers to a single instance"
-   * bad: "Uniplex refers to a single instance."
-
+The formatting guidelines are laid out in the file [[file:yaml/morphology/_template.yaml::---][yaml/morphology/_template.yaml]].
 * Graphics
 Graphics are available for several categories.
 
