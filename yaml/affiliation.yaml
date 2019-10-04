@@ -1,17 +1,17 @@
 ---
 name: Affiliation
-brief: Communicates (dis)similarity of purpose between members of the configurative set.  
+brief: (dis)similarity of use, condition, or purpose between members of the configurative set
 values:
   - name: Consolidative
     abbrev: CSL
-    brief: Marks a group where a common use, condition, or purpose of members is undetermined or irrelevant.  
+    brief: group where a common use, condition, or purpose of members is undetermined or irrelevant
   - name: Associative
     abbrev: ASO
-    brief: Indicates that individuals in a set share have a common use, condition, or purpose.  
+    brief: group with a common use, condition, or purpose
   - name: Variative
     abbrev: VAR
-    brief: Describes groups with conflicted use, condition, or purpose.  
+    brief: group with conflicted use, condition, or purpose
   - name: Coalescent
     abbrev: COA
-    brief: Used when the use, condition, or purpose of each individual complements the others' to produce a shared group function.
+    brief: group with a shared function arising from complementary use, conditions, or purpose of each individual
 ...
