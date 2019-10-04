@@ -1,0 +1,32 @@
+---
+name: configuration
+brief: physical (dis)similarity and spatiotemporal connectedness
+values:
+  - name: Uniplex
+    abbrev: UNI
+    brief: individual instance
+  - name: Duplex
+    abbrev: DUP
+    brief: pair of instances
+  - name: Discrete
+    abbrev: DCT
+    brief: many similar instances
+  - name: aggregative
+    abbrev: AGG
+    brief: collection of dissimilar instances
+  - name: segmentative
+    abbrev: SEG
+    brief: close or contiguous group of similar instances
+  - name: componential
+    abbrev: CPN
+    brief: close or contiguous group of dissimilar instances
+  - name: coherent
+    abbrev: COH
+    brief: connected collection of similar instances
+  - name: composite
+    abbrev: CST
+    brief: connected collection of dissimilar instances
+  - name: multiform
+    abbrev: MLT
+    brief: borderline or questionable instance
+...
