@@ -101,7 +101,7 @@ values:
     full: TODO
   - abbr: INS
     name: instrumental
-    brief: object used by agent to accomplish action
+    brief: instrument used by agent to accomplish action
     full: TODO
   - abbr: ABS
     name: absolutive
@@ -177,7 +177,7 @@ values:
     full: TODO
   - abbr: TRA
     name: transmissive
-    # TODO review/revise this brief
+    # TODO Review/revise this brief
     brief: recipient of benefit/detriment
     full: TODO
   - abbr: DER
@@ -308,66 +308,71 @@ values:
     full: TODO
   - abbr: REF
     name: referential
-    brief: ____
+    brief: “pertaining to X”
     full: TODO
   - abbr: COR
     name: correlative
-    brief: ____
+    brief: abstract association
     full: TODO
   - abbr: CPS
     name: compositive
-    brief: ____
+    brief: literal/figurative component substance
     full: TODO
   - abbr: DEP
     name: dependent
-    brief: ____
+    brief: contingent circumstance
     full: TODO
   - abbr: PRD
     name: predicative
-    brief: ____
+    brief: non-causal basis/dependency
     full: TODO
   - abbr: ESS
     name: essive
-    brief: ____
+    brief: contextual role/name
     full: TODO
   - abbr: ASI
     name: assimilative
-    brief: ____
+    brief: simile
     full: TODO
   - abbr: CFM
     name: conformative
-    brief: ____
+    brief: “in comformance with X”
     full: TODO
   - abbr: ACT
     name: activative
-    brief: ____
+    brief: experiencer of modal state
     full: TODO
   - abbr: SEL
     name: selective
-    brief: ____
+    # TODO Double-check that this matches the TNIL PDF description (since it
+    # doesn't exist in Ithkuil)
+    brief: recurring interval
     full: TODO
   - abbr: COM
     name: comitative
-    brief: ____
+    brief: “along with X”
     full: TODO
   - abbr: UTL
     name: utilitative
-    brief: ____
+    brief: instrument used in another activity
     full: TODO
   - abbr: DSC
     name: descriptive
-    brief: ____
+    brief: characterization
     full: TODO
   - abbr: RLT
     name: relative
-    brief: ____
+    # TODO This is not a good brief because it doesn't help to explain how the
+    # Relative case is actually used or what it actually means, and I don't
+    # really know. Are there any example sentences using RLT?
+    brief: relative clause
     full: TODO
   - abbr: TRM
     name: terminative
-    brief: ____
+    brief: goal
     full: TODO
   - abbr: VOC
     name: vocative
-    brief: ____
+    brief: direct address
     full: TODO
 ...
