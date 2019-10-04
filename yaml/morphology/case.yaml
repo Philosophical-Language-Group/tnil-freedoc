@@ -137,7 +137,7 @@ values:
     full: TODO
   - abbr: PRP
     name: proprietive
-    brief: official/accepted possession
+    brief: official/accepted ownership/oversight
     full: TODO
   - abbr: GEN
     name: genitive
@@ -282,27 +282,29 @@ values:
     full: TODO
   - abbr: PER
     name: periodic
-    brief: ____
+    brief: time span of scattered events
     full: TODO
   - abbr: PRO
     name: prolapsive
-    brief: ____
+    brief: duration
     full: TODO
   - abbr: PCV
     name: precursive
-    brief: ____
+    brief: “before X”
     full: TODO
   - abbr: PCR
     name: postcursive
-    brief: ____
+    brief: “after X”
     full: TODO
   - abbr: ELP
     name: elapsive
-    brief: ____
+    # TODO Another good brief could be 'temporal distance', but it might be too
+    # convoluted for the brief. Maybe use this phrase in the full description?
+    brief: time elapsed since/until
     full: TODO
   - abbr: PLM
     name: prolimitive
-    brief: ____
+    brief: temporal limit
     full: TODO
   - abbr: REF
     name: referential
