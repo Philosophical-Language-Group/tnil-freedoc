@@ -1,10 +1,11 @@
-#+title: Libre Ithkuil & TNIL documentation
+#+title: Libre TNIL documentation
 * Overview
-[[http://ithkuil.net/][Ithkuil]] is a constructed language created by John Quijada, and TNIL is
-a successor language sharing many of its design values.
+[[http://ithkuil.net/][Ithkuil]] is a constructed language created by John Quijada, and TNIL
+("The Next Ithkuilic Language") is a successor language sharing many
+of its design values.
 
 This repo contains a community-driven, libre set of documentation for
-the language family, including graphics illustrating several
+TNIL family, including graphics illustrating several
 morphological categories.
 
 * Contributing to documentation
