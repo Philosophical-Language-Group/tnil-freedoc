@@ -1,0 +1,378 @@
+---
+name: case
+brief: TODO
+groups:
+  - name: transrelative
+    brief: TODO
+    members:
+      - THM
+      - INS
+      - ABS
+      - STM
+      - AFF
+      - EFF
+      - ERG
+      - DAT
+      - IND
+  - name: appositive
+    brief: TODO
+    members:
+      - POS
+      - PRP
+      - GEN
+      - ATT
+      - PDC
+      - ITP
+      - OGN
+      - IDP
+      - PAR
+  - name: associative
+    brief: TODO
+    members:
+      - APL
+      - PUR
+      - TRA
+      - DFR
+      - CRS
+      - TSP
+      - CMM
+      - CMP
+      - CSD
+  - name: adverbial
+    brief: TODO
+    members:
+      - CON
+      - AVR
+      - CVS
+      - SIT
+      - FUN
+      - TFM
+      - CLA
+      - CSM
+      - RSL
+  - name: spatio-temporal I
+    brief: TODO
+    members:
+      - LOC
+      - ATD
+      - ALL
+      - ABL
+      - ORI
+      - IRL
+      - INV
+      - NAV
+  - name: spatio-temporal II
+    brief: TODO
+    members:
+      - ASS
+      - CNR
+      - PER
+      - PRO
+      - PCV
+      - PCR
+      - ELP
+      - PLM
+  - name: relational I
+    brief: TODO
+    members:
+      - REF
+      - COR
+      - CPS
+      - DEP
+      - PRD
+      - ESS
+      - ASI
+      - CFM
+  - name: relational II
+    brief: TODO
+    members:
+      - ACT
+      - SEL
+      - COM
+      - UTL
+      - DSC
+      - RLT
+      - TRM
+      - VOC
+values:
+  - abbr: THM
+    name: thematic
+    brief: content
+    full: TODO
+  - abbr: INS
+    name: instrumental
+    brief: instrument used by agent to accomplish action
+    full: TODO
+  - abbr: ABS
+    name: absolutive
+    brief: patient
+    full: TODO
+  - abbr: STM
+    name: stimulative
+    brief: non-deliberate stimulus
+    full: TODO
+  - abbr: AFF
+    name: affective
+    brief: experiencer
+    full: TODO
+  - abbr: EFF
+    name: effectuative
+    brief: enabler
+    full: TODO
+  - abbr: ERG
+    name: ergative
+    brief: agent
+    full: TODO
+  - abbr: DAT
+    name: dative
+    brief: indirect object
+    full: TODO
+  - abbr: IND
+    name: inducive
+    brief: agent and patient
+    full: TODO
+  - abbr: POS
+    name: possessive
+    brief: alienable control/oversight
+    full: TODO
+  - abbr: PRP
+    name: proprietive
+    brief: official/accepted ownership/oversight
+    full: TODO
+  - abbr: GEN
+    name: genitive
+    brief: inalienable/intrinsic possession
+    full: TODO
+  - abbr: ATT
+    name: attributive
+    brief: TODO
+    full: TODO
+  - abbr: PDC
+    name: productive
+    brief: creator/author/originator
+    full: TODO
+  - abbr: ITP
+    name: interpretive
+    brief: subjective interpretational context
+    full: TODO
+  - abbr: OGN
+    name: originative
+    brief: literal/figurative origin
+    full: TODO
+  - abbr: IDP
+    name: interdependent
+    brief: mututally dependent
+    full: TODO
+  - abbr: PAR
+    name: partitive
+    brief: quantitative or content of container
+    full: TODO
+  - abbr: APL
+    name: applicative
+    brief: current utilization/purpose
+    full: TODO
+  - abbr: PUR
+    name: purposive
+    brief: intended utilization/purpose
+    full: TODO
+  - abbr: TRA
+    name: transmissive
+    # TODO Review/revise this brief
+    brief: recipient of benefit/detriment
+    full: TODO
+  - abbr: DER
+    name: deferential
+    brief: “for the sake of X”
+    full: TODO
+  - abbr: CRS
+    name: contrastive
+    brief: “as a substitute for X”
+    full: TODO
+  - abbr: TSP
+    name: transpositive
+    brief: “on behalf of X”
+    full: TODO
+  - abbr: CMM
+    name: commutative
+    brief: “in exchange for X”
+    full: TODO
+  - abbr: CMP
+    name: comparative
+    brief: “in comparison to X”
+    full: TODO
+  - abbr: CSD
+    name: considerative
+    brief: “according to X”
+    full: TODO
+  - abbr: CON
+    name: concessive
+    brief: “despite X”
+    full: TODO
+  - abbr: AVR
+    name: aversive
+    brief: “to avoid X”
+    full: TODO
+  - abbr: CVS
+    name: conversive
+    brief: exception
+    full: TODO
+  - abbr: SIT
+    name: situative
+    brief: cause/context
+    full: TODO
+  - abbr: FUN
+    name: functive
+    brief: manner/characterization
+    full: TODO
+  - abbr: TFM
+    name: transformative
+    brief: final state of transformative process
+    full: TODO
+  - abbr: CLA
+    name: classificative
+    brief: manner of arrangement/classification/counting
+    full: TODO
+  - abbr: CSM
+    name: consumptive
+    brief: object consumed in process
+    full: TODO
+  - abbr: RSL
+    name: resultative
+    brief: result/consequence
+    full: TODO
+  - abbr: LOC
+    name: locative
+    brief: location
+    full: TODO
+  - abbr: ATD
+    name: attendant
+    brief: entity present
+    full: TODO
+  - abbr: ALL
+    name: allative
+    brief: “moving toward X”
+    full: TODO
+  - abbr: ABL
+    name: ablative
+    brief: “moving from X”
+    full: TODO
+  - abbr: ORI
+    name: orientative
+    brief: orientational reference
+    full: TODO
+  - abbr: IRL
+    name: interrelative
+    brief: spatiotemporal positional reference
+    full: TODO
+  - abbr: INV
+    name: intrative
+    brief: spatiotemporal span
+    full: TODO
+  - abbr: NAV
+    name: navigative
+    brief: path of motion
+    full: TODO
+  - abbr: ASS
+    name: assessive
+    brief: unit by which something happens or is measured
+    full: TODO
+  - abbr: CNR
+    name: concursive
+    brief: time of occurrence
+    full: TODO
+  - abbr: PER
+    name: periodic
+    brief: time span of scattered events
+    full: TODO
+  - abbr: PRO
+    name: prolapsive
+    brief: duration
+    full: TODO
+  - abbr: PCV
+    name: precursive
+    brief: “before X”
+    full: TODO
+  - abbr: PCR
+    name: postcursive
+    brief: “after X”
+    full: TODO
+  - abbr: ELP
+    name: elapsive
+    # TODO Another good brief could be 'temporal distance', but it might be too
+    # convoluted for the brief. Maybe use this phrase in the full description?
+    brief: time elapsed since/until
+    full: TODO
+  - abbr: PLM
+    name: prolimitive
+    brief: temporal limit
+    full: TODO
+  - abbr: REF
+    name: referential
+    brief: “pertaining to X”
+    full: TODO
+  - abbr: COR
+    name: correlative
+    brief: abstract association
+    full: TODO
+  - abbr: CPS
+    name: compositive
+    brief: literal/figurative component substance
+    full: TODO
+  - abbr: DEP
+    name: dependent
+    brief: contingent circumstance
+    full: TODO
+  - abbr: PRD
+    name: predicative
+    brief: non-causal basis/dependency
+    full: TODO
+  - abbr: ESS
+    name: essive
+    brief: contextual role/name
+    full: TODO
+  - abbr: ASI
+    name: assimilative
+    brief: simile
+    full: TODO
+  - abbr: CFM
+    name: conformative
+    brief: “in comformance with X”
+    full: TODO
+  - abbr: ACT
+    name: activative
+    brief: experiencer of modal state
+    full: TODO
+  - abbr: SEL
+    name: selective
+    # TODO Double-check that this matches the TNIL PDF description (since it
+    # doesn't exist in Ithkuil)
+    brief: recurring interval
+    full: TODO
+  - abbr: COM
+    name: comitative
+    brief: “along with X”
+    full: TODO
+  - abbr: UTL
+    name: utilitative
+    brief: instrument used in another activity
+    full: TODO
+  - abbr: DSC
+    name: descriptive
+    brief: characterization
+    full: TODO
+  - abbr: RLT
+    name: relative
+    # TODO This is not a good brief because it doesn't help to explain how the
+    # Relative case is actually used or what it actually means, and I don't
+    # really know. Are there any example sentences using RLT?
+    brief: relative clause
+    full: TODO
+  - abbr: TRM
+    name: terminative
+    brief: goal
+    full: TODO
+  - abbr: VOC
+    name: vocative
+    brief: direct address
+    full: TODO
+...
