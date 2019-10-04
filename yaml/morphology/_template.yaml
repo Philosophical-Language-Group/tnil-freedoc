@@ -33,5 +33,16 @@ values:
       other hand, are always required.
   - abbrev: CV2
     name: value B
-    brief: brief phrase-length description of value B
+    brief: a few words
+  - abbrev: CV3
+    name: value C
+    brief: “looks like X in a sentence”
+    full: >
+      Briefs can contain quoted translations as well, using smart double quotes
+      `“…”` and a single capital `X` in place of the word carrying the value. A
+      non-quoted description is generally better, but sometimes literal words
+      are the most efficient way to describe something. Be careful to select a
+      translation that disambiguates from other values; e.g. “instead of X”
+      could be used as a translation for multiple Cases, but “to avoid X” only
+      fits one.
 ...
