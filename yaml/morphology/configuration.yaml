@@ -6,28 +6,37 @@ values:
   - abbrev: UNI
     name: Uniplex
     brief: individual instance
+    full: TODO
   - abbrev: DUP
     name: Duplex
     brief: pair of instances
+    full: TODO
   - abbrev: DCT
     name: Discrete
     brief: many similar instances
+    full: TODO
   - abbrev: AGG
     name: aggregative
     brief: collection of dissimilar instances
+    full: TODO
   - abbrev: SEG
     name: segmentative
     brief: close or contiguous group of similar instances
+    full: TODO
   - abbrev: CPN
     name: componential
     brief: close or contiguous group of dissimilar instances
+    full: TODO
   - abbrev: COH
     name: coherent
     brief: connected collection of similar instances
+    full: TODO
   - abbrev: CST
     name: composite
     brief: connected collection of dissimilar instances
+    full: TODO
   - abbrev: MLT
     name: multiform
     brief: borderline or questionable instance
+    full: TODO
 ...

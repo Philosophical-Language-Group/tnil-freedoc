@@ -6,28 +6,37 @@ values:
   - abbrev: CNF
     name: confirmative
     brief: testimony of direct observation
+    full: TODO
   - abbrev: INF
     name: inferential
     brief: conclusion of reasoning
+    full: TODO
   - abbrev: ITU
     name: intuitive
     brief: intuition/hunch
+    full: TODO
   - abbrev: REV
     name: revelatory
     brief: vision/dream/altered state
+    full: TODO
   - abbrev: HSY
     name: hearsay
     brief: secondhand information
+    full: TODO
   - abbrev: USP
     name: unspecified
     brief: unknown or unspecified Illocution
+    full: TODO
   - abbrev: DIR
     name: directive
     brief: instruction/order/command
+    full: TODO
   - abbrev: IRG
     name: interrogative
     brief: yes/no question
+    full: TODO
   - abbrev: DEC
     name: declarative
     brief: performative declaration
+    full: TODO
 ...

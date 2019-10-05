@@ -6,13 +6,17 @@ values:
   - abbrev: EXS
     name: existential
     brief: objective, material reality
+    full: TODO
   - abbrev: FNC
     name: functional
     brief: subjective, socially conditioned reality
+    full: TODO
   - abbrev: RPS
     name: representational
     brief: symbolic or analogical use
+    full: TODO
   - abbrev: AMG
     name: amalgamative
     brief: as an emergent totality of internal and external relations
+    full: TODO
 ...

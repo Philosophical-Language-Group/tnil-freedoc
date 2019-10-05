@@ -6,7 +6,9 @@ values:
   - abbrev: NRM
     name: normal
     brief: actually existing
+    full: TODO
   - abbrev: RPV
     name: representative
     brief: hypothetical/imaginary/unrealized
+    full: TODO
 ...

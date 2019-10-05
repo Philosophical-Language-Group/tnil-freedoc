@@ -6,13 +6,17 @@ values:
   - abbrev: CSL
     name: consolidative
     brief: undetermined/irrelevant shared use/condition/purpose
+    full: TODO
   - abbrev: ASO
     name: associative
     brief: shared use/condition/purpose
+    full: TODO
   - abbrev: VAR
     name: variative
     brief: conflicted use/condition/purpose
+    full: TODO
   - abbrev: COA
     name: coalescent
     brief: complementary or emergent use/condition/purpose
+    full: TODO
 ...
