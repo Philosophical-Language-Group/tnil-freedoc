@@ -4,7 +4,7 @@ brief: role in the action of a sentence
 full: TODO
 groups:
   - name: transrelative
-    brief: TODO
+    full: TODO
     members:
       - THM
       - INS
@@ -16,7 +16,7 @@ groups:
       - DAT
       - IND
   - name: appositive
-    brief: TODO
+    full: TODO
     members:
       - POS
       - PRP
@@ -28,7 +28,7 @@ groups:
       - IDP
       - PAR
   - name: associative
-    brief: TODO
+    full: TODO
     members:
       - APL
       - PUR
@@ -40,7 +40,7 @@ groups:
       - CMP
       - CSD
   - name: adverbial
-    brief: TODO
+    full: TODO
     members:
       - CON
       - AVR
@@ -52,7 +52,7 @@ groups:
       - CSM
       - RSL
   - name: spatio-temporal I
-    brief: TODO
+    full: TODO
     members:
       - LOC
       - ATD
@@ -63,7 +63,7 @@ groups:
       - INV
       - NAV
   - name: spatio-temporal II
-    brief: TODO
+    full: TODO
     members:
       - ASS
       - CNR
@@ -74,7 +74,7 @@ groups:
       - ELP
       - PLM
   - name: relational I
-    brief: TODO
+    full: TODO
     members:
       - REF
       - COR
@@ -85,7 +85,7 @@ groups:
       - ASI
       - CFM
   - name: relational II
-    brief: TODO
+    full: TODO
     members:
       - ACT
       - SEL
