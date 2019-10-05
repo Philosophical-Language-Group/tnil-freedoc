@@ -2,11 +2,10 @@
 name: essence
 brief: real vs. imaginary
 values:
-  - name: normal
+  - abbrev: NRM
+    name: normal
     brief: actually existing referent
-    abbrev: NRM
-  - name: representative
+  - abbrev: RPV
+    name: representative
     brief: hypothetical/imaginary/unrealized referent
-    abbrev: RPV
 ...
-    

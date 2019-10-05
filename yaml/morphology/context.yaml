@@ -2,16 +2,16 @@
 name: context
 brief: relevant domain of features implied by the formative
 values:
-  - name: existential
+  - abbrev: EXS
+    name: existential
     brief: objective, material reality of the formative
-    abbrev: EXS
-  - name: functional
+  - abbrev: FNC
+    name: functional
     brief: subjective, socially conditioned reality of the formative
-    abbrev: FNC
-  - name: representational
+  - abbrev: RPS
+    name: representational
     brief: symbolic or analogical use of the formative
-    abbrev: RPS
-  - name: amalgamate
+  - abbrev: AMG
+    name: amalgamate
     brief: formative as an emergent totality of internal and external relations
-    abbrev: AMG
 ...
