@@ -16,10 +16,10 @@ values:
     brief: vision/dream/altered state
   - abbrev: HSY
     name: hearsay
-    brief: second-hand information
+    brief: secondhand information
   - abbrev: USP
     name: unspecified
-    brief: illocution unknown or unspecified
+    brief: unknown or unspecified Illocution
   - abbrev: DIR
     name: directive
     brief: instruction/order/command
