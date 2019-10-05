@@ -4,7 +4,9 @@ brief: role in the action of a sentence
 full: TODO
 groups:
   - name: transrelative
-    full: TODO
+    brief: TODO
+    full: |
+      There are 9 Transrelative cases. TODO more
     members:
       - THM
       - INS
@@ -16,7 +18,9 @@ groups:
       - DAT
       - IND
   - name: appositive
-    full: TODO
+    brief: TODO
+    full: |
+      There are 9 Appositive cases. TODO more
     members:
       - POS
       - PRP
@@ -28,7 +32,9 @@ groups:
       - IDP
       - PAR
   - name: associative
-    full: TODO
+    brief: TODO
+    full: |
+      There are 9 Associative cases. TODO more
     members:
       - APL
       - PUR
@@ -40,7 +46,8 @@ groups:
       - CMP
       - CSD
   - name: adverbial
-    full: TODO
+    brief: TODO
+    full: There are 9 Adverbial cases. TODO more
     members:
       - CON
       - AVR
@@ -51,8 +58,9 @@ groups:
       - CLA
       - CSM
       - RSL
-  - name: spatio-temporal I
-    full: TODO
+  - name: spatio-temporal
+    brief: TODO
+    full: There are 16 Spatio-temporal cases. TODO more
     members:
       - LOC
       - ATD
@@ -62,9 +70,6 @@ groups:
       - IRL
       - INV
       - NAV
-  - name: spatio-temporal II
-    full: TODO
-    members:
       - ASS
       - CNR
       - PER
@@ -73,8 +78,9 @@ groups:
       - PCR
       - ELP
       - PLM
-  - name: relational I
-    full: TODO
+  - name: relational
+    brief: TODO
+    full: There are 16 Relational cases. TODO more
     members:
       - REF
       - COR
@@ -84,9 +90,6 @@ groups:
       - ESS
       - ASI
       - CFM
-  - name: relational II
-    full: TODO
-    members:
       - ACT
       - SEL
       - COM
@@ -181,7 +184,7 @@ values:
     # TODO Review/revise this brief
     brief: recipient of benefit/detriment
     full: TODO
-  - abbr: DER
+  - abbr: DFR
     name: deferential
     brief: “for the sake of X”
     full: TODO
