@@ -1,0 +1,24 @@
+---
+name: extension
+brief: transcending vs. remains within the discursive context; spatiotemporal part and dynamics
+values:
+  - name: delimitive
+    brief: discrete, with accessible boundaries
+    abbrev: DEL
+  - name: proximal
+    brief: transcending the current context, or without accessible limits
+    abbrev: PRX
+  - name: inceptive
+    brief: spatiotemporal beginning
+    abbrev: ICP
+  - name: attenuative
+    brief: spatiotemporal end
+    abbrev: ATV
+  - name: graduative
+    brief: increasing degree or quantity
+    abbrev: GRA
+  - name: depletive
+    brief: decreasing degree or quantity
+    abbrev: DPL
+
+...

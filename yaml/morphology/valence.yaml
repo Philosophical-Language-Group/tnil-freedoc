@@ -1,0 +1,29 @@
+---
+name: Valence
+brief: roles of additional co-participants to the verb
+values:
+  - name: Monoactive
+    abbrev: mno
+  - name: Parallel
+    abbrev: PRL
+  - name: Corollary
+    abbrev: CRO
+  - name: Reciprocal
+    abbrev: RCP
+  - name: Complementary
+    abbrev: CPL
+  - name: Duplicative
+    abbrev: DUP
+  - name: Demonstrative
+    abbrev: DEM
+  - name: Imitative
+    abbrev: IMT
+  - name: Contingent
+    abbrev: CNG
+  - name: Participative
+    abbrev: PTI
+  - name: Indicative
+    abbrev: IDC
+  - name: Mutual
+    abbrev: MUT
+...
