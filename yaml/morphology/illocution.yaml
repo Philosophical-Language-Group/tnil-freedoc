@@ -1,32 +1,32 @@
 ---
 name: illocution
-brief: facticity and speech act involved in the utterance
+brief: facticity and speech act
 values:
-  - name: confirmative
+  - abbrev: CNF
+    name: confirmative
     brief: testimony of direct observation
-    abbrev: CNF
-  - name: inferential
+  - abbrev: INF
+    name: inferential
     brief: conclusion of reasoning
-    abbrev: INF
-  - name: intuitive
+  - abbrev: ITU
+    name: intuitive
     brief: intuition/hunch
-    abbrev: ITU
-  - name: revelatory
+  - abbrev: REV
+    name: revelatory
     brief: vision/dream/altered state
-    abbrev: REV
-  - name: hearsay
-    brief: second-hand information
-    abbrev: HSY
-  - name: unspecified
-    brief: illocution unknown or unspecified
-    abbrev: USP
-  - name: directive
+  - abbrev: HSY
+    name: hearsay
+    brief: secondhand information
+  - abbrev: USP
+    name: unspecified
+    brief: unknown or unspecified Illocution
+  - abbrev: DIR
+    name: directive
     brief: instruction/order/command
-    abbrev: DIR
-  - name: interrogative
+  - abbrev: IRG
+    name: interrogative
     brief: yes/no question
-    abbrev: IRG
-  - name: declarative
+  - abbrev: DEC
+    name: declarative
     brief: performative declaration
-    abbrev: DEC
 ...

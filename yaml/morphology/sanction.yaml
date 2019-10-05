@@ -2,31 +2,31 @@
 name: sanction
 brief: conversational role and truth-commitments of an utterance
 values:
-  - name: propositional
+  - abbrev: PPS
+    name: propositional
     brief: materially factual
-    abbrev: PPS
-  - name: epistemic
+  - abbrev: EPI
+    name: epistemic
     brief: socially/conventionally factual
-    abbrev: EPI
-  - name: allegative
+  - abbrev: ALG
+    name: allegative
     brief: personal opinion or belief
-    abbrev: ALG
-  - name: imputative
+  - abbrev: IPU
+    name: imputative
     brief: assumption open to counter-argument
-    abbrev: IPU
-  - name: refutative
+  - abbrev: REF
+    name: refutative
     brief: counter-assertion based on conventional knowledge
-    abbrev: REF
-  - name: rebuttative
+  - abbrev: REB
+    name: rebuttative
     brief: counter-assertion based on material facts.
-    abbrev: REB
-  - name: conjectural
+  - abbrev: CJT
+    name: conjectural
     brief: testable hypothesis.
-    abbrev: CJT
-  - name: expatiative
+  - abbrev: EXV
+    name: expatiative
     brief: hypothesis that cannot be conclusively tested
-    abbrev: EXV
-  - name: axiomatic
+  - abbrev: AXM
+    name: axiomatic
     brief: non-contestable truth
-    abbrev: AXM
 ...
