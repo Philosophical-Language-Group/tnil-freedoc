@@ -4,8 +4,8 @@ brief: real vs. imaginary
 values:
   - abbrev: NRM
     name: normal
-    brief: actually existing referent
+    brief: actually existing
   - abbrev: RPV
     name: representative
-    brief: hypothetical/imaginary/unrealized referent
+    brief: hypothetical/imaginary/unrealized
 ...
