@@ -4,7 +4,7 @@ brief: (dis)similarity of purpose between members of configurative set
 values:
   - abbrev: CSL
     name: consolidative
-    brief: shared use/condition/purpose is undetermined or irrelevant
+    brief: undetermined/irrelevant shared use/condition/purpose
   - abbrev: ASO
     name: associative
     brief: shared use/condition/purpose

@@ -2,11 +2,17 @@
 name: version
 brief: goal-driven vs. process-driven.
 values:
-  - name: processual
+  - abbrev: PRC
+    name: processual
     brief: state or action that is an end in itself
+<<<<<<< HEAD
     abbrev: PRC
   - name: completive
     brief: result-driven state or action
     abbrev: CPT
+=======
+  - abbrev: CPT
+    name: completive
+    brief: result-driven state or action.
+>>>>>>> 23165a83d11b6e8555708ee9d0294d5bbfdc5c71
 ...
-    

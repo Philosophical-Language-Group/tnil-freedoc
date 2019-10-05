@@ -1,0 +1,41 @@
+---
+name: phase
+brief: repetitive nature
+values:
+  - abbr: CTX
+    name: contextual
+    brief: single relatively brief event
+    full: TODO
+  - abbr: PUN
+    name: punctual
+    brief: single instant event
+    full: TODO
+  - abbr: ITR
+    name: iterative
+    brief: rapidly repeating instant events
+    full: TODO
+  - abbr: REP
+    name: repetitive
+    brief: steady on-off pattern
+    full: TODO
+  - abbr: ITM
+    name: intermittent
+    brief: slow repetiton of instant events
+    full: TODO
+  - abbr: RCT
+    name: recurrent
+    brief: slow repetition of relatively brief events
+    full: TODO
+  - abbr: FRE
+    name: frequentative
+    brief: slow repitition of quick sequence of instant events
+    full: TODO
+  - abbr: FRG
+    name: fragmentative
+    brief: random pattern of instant events
+    full: TODO
+  - abbr: FLC
+    name: fluctuative
+    brief: random pattern of instant and brief events
+    full: TODO
+...
