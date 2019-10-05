@@ -31,21 +31,21 @@ Each category value illustration should be an SVG object less than 512×512 px.
 Configuration describes the physical similarity and spatial
 connectedness of the items named by the root.
 
-![Configurations](file:./output/preview-configurations.png)
+![Configurations](output/preview-configurations.png)
 
 ### Affiliation
 
 Affiliation communicates similarities and dissimilarities of use and purpose
 between members of the configurative set.
 
-![Affiliations](file:./output/preview-affiliations.png)
+![Affiliations](output/preview-affiliations.png)
 
 ### Perspective
 
 Perspective quantifies the configurative set as a single, multiple, universal,
 or conceptual instance of the root.
 
-![Perspectives](file:./output/preview-perspectives.png)
+![Perspectives](output/preview-perspectives.png)
 
 ### Extension
 
@@ -53,4 +53,4 @@ Extension picks out a spatiotemporal part of the set (beginning, end), its
 dynamics (increasing, decreasing), and its characterization as either
 circumscribed by or transcending the discursive context.
 
-![Extensions](file:./output/preview-extensions.png)
+![Extensions](output/preview-extensions.png)
