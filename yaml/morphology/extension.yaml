@@ -1,6 +1,6 @@
 ---
 name: extension
-brief: transcending vs. remains within the discursive context; spatiotemporal part and dynamics
+brief: spatiotemporal limits relative to current context
 values:
   - abbrev: DEL
     name: delimitive
@@ -16,9 +16,9 @@ values:
     brief: spatiotemporal end
   - abbrev: GRA
     name: graduative
-    brief: increasing degree or quantity
+    brief: gradual/fading spatiotemporal beginning
   - abbrev: DPL
     name: depletive
-    brief: decreasing degree or quantity
+    brief: gradual/fading spatiotemporal end
 
 ...
