@@ -5,26 +5,50 @@ full: TODO
 values:
   - abbrev: MNO
     name: Monoactive
+    brief: no co-participant
+    full: TODO
   - abbrev: PRL
     name: Parallel
+    brief: performing same activity
+    full: TODO
   - abbrev: CRO
     name: Corollary
+    brief: performing related activity
+    full: TODO
   - abbrev: RCP
     name: Reciprocal
+    brief: performing same activity with roles reversed
+    full: TODO
   - abbrev: CPL
     name: Complementary
+    brief: performing distinct but complementary activity
+    full: TODO
   - abbrev: DUP
     name: Duplicative
+    brief: performing same activity in parallel
+    full: TODO
   - abbrev: DEM
     name: Demonstrative
+    brief: learning by demonstration
+    full: TODO
   - abbrev: IMT
     name: Imitative
+    brief: mimicking first party
+    full: TODO
   - abbrev: CNG
     name: Contingent
+    brief: performing next step of process
+    full: TODO
   - abbrev: PTI
     name: Participative
+    brief: partcipating in activity
+    full: TODO
   - abbrev: IDC
     name: Indicative
+    brief: perceiving cue/nuance/implication from first party
+    full: TODO
   - abbrev: MUT
     name: Mutual
+    brief: alternating/taking turns
+    full: TODO
 ...
