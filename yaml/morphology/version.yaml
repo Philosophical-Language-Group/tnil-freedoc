@@ -6,7 +6,7 @@ values:
     brief: state or action that is an end in itself
     abbrev: PRC
   - name: completive
-    brief: result-driven state or action.
+    brief: result-driven state or action
     abbrev: CPT
 ...
     
