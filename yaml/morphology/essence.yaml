@@ -1,6 +1,7 @@
 ---
 name: essence
 brief: real vs. imaginary
+full: TODO
 values:
   - abbrev: NRM
     name: normal

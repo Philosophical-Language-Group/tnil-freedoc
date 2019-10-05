@@ -1,6 +1,7 @@
 ---
 name: case
 brief: role in the action of a sentence
+full: TODO
 groups:
   - name: transrelative
     brief: TODO

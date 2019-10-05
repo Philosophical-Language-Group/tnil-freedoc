@@ -1,6 +1,7 @@
 ---
 name: Valence
 brief: roles of additional co-participants to the verb
+full: TODO
 values:
   - abbrev: MNO
     name: Monoactive

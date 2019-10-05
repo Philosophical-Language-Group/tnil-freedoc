@@ -1,6 +1,7 @@
 ---
 name: phase
 brief: repetitive nature
+full: TODO
 values:
   - abbr: CTX
     name: contextual

@@ -1,6 +1,7 @@
 ---
 name: sanction
 brief: conversational role and truth-commitment
+full: TODO
 values:
   - abbrev: PPS
     name: propositional

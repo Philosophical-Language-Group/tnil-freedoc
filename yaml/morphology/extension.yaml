@@ -1,6 +1,7 @@
 ---
 name: extension
 brief: spatiotemporal limits relative to current context
+full: TODO
 values:
   - abbrev: DEL
     name: delimitive

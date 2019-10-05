@@ -1,6 +1,7 @@
 ---
 name: context
 brief: relevant domain of features implied by the formative
+full: TODO
 values:
   - abbrev: EXS
     name: existential

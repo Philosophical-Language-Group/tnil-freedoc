@@ -1,6 +1,7 @@
 ---
 name: illocution
 brief: facticity and speech act
+full: TODO
 values:
   - abbrev: CNF
     name: confirmative

@@ -1,6 +1,7 @@
 ---
 name: configuration
 brief: physical (dis)similarity and spatiotemporal connectedness
+full: TODO
 values:
   - abbrev: UNI
     name: Uniplex

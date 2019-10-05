@@ -1,6 +1,7 @@
 ---
 name: version
 brief: goal-driven vs. process-driven
+full: TODO
 values:
   - abbrev: PRC
     name: processual
