@@ -1,5 +1,7 @@
 # Libre TNIL documentation
 
+**[Click here for the latest documentation.](https://hactarce.github.io/tnil-freedoc/)**
+
 ## Overview
 
 [Ithkuil](http://ithkuil.net/) is a constructed language created by John
