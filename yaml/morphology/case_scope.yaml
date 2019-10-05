@@ -1,0 +1,30 @@
+---
+name: case scope
+brief: TODO
+full: TODO
+values:
+  - abbr: CCw
+    name: CCw
+    brief: TODO
+    full: TODO
+  - abbr: CCm
+    name: CCm
+    brief: TODO
+    full: TODO
+  - abbr: CCy
+    name: CCy
+    brief: TODO
+    full: TODO
+  - abbr: CCn
+    name: CCn
+    brief: TODO
+    full: TODO
+  - abbr: CCl
+    name: CCl
+    brief: TODO
+    full: TODO
+  - abbr: CCx
+    name: CCx
+    brief: TODO
+    full: TODO
+...

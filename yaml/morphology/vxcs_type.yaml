@@ -1,0 +1,18 @@
+---
+name: VxCs type
+brief: TODO
+full: TODO
+values:
+  - abbr: ₁
+    name: type 1
+    brief: TODO
+    full: TODO
+  - abbr: ₂
+    name: type 2
+    brief: TODO
+    full: TODO
+  - abbr: ₃
+    name: type 3
+    brief: TODO
+    full: TODO
+...

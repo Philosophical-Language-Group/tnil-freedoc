@@ -1,0 +1,14 @@
+---
+name: designation
+brief: TODO
+full: TODO
+values:
+  - abbr: IFL
+    name: informal
+    brief: TODO
+    full: TODO
+  - abbr: FML
+    name: formal
+    brief: TODO
+    full: TODO
+...
