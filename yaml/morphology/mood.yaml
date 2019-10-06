@@ -1,6 +1,7 @@
 ---
 name: mood
 brief: hypothetical based on implicit supposition
+full: TODO
 values:
   - abbr: FAC
     name: factual

@@ -1,6 +1,6 @@
 ---
 name: perspective
-brief: single, multiple, universal, or conceptual
+brief: configurative set
 full: |
   Perspective quantifies both nominal and verbal stems and can provide
   tense-like information for verbal stems. This category, like that of of
@@ -13,16 +13,20 @@ full: |
   # TODO provide table of Tense-Aspect-Extension and Tense-Aspect1-Aspect2
   # combos
 values:
-  - name: monadic
+  - abbr: 'M'
+    name: monadic
     brief: single instance
-    abbrev: M
-  - name: polyadic
+    full: TODO
+  - abbr: 'P'
+    name: polyadic
     brief: multiple instances
-    abbrev: P
-  - name: nomic
+    full: TODO
+  - abbr: 'N'
+    name: nomic
     brief: all instances in space and time
-    abbrev: \N
-  - name: abstract
-    brief: idea, concept, or essence.
-    abbrev: A
+    full: TODO
+  - abbr: 'A'
+    name: abstract
+    brief: idea/concept/essence
+    full: TODO
 ...

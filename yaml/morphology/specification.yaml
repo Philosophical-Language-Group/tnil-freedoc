@@ -1,0 +1,22 @@
+---
+name: specification
+brief: TODO
+full: TODO
+values:
+  - abbr: BSC
+    name: basic
+    brief: TODO
+    full: TODO
+  - abbr: CTE
+    name: contential
+    brief: TODO
+    full: TODO
+  - abbr: CSV
+    name: constitutive
+    brief: TODO
+    full: TODO
+  - abbr: OBJ
+    name: objective
+    brief: TODO
+    full: TODO
+...
