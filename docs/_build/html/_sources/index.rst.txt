@@ -10,6 +10,9 @@ Welcome to The New Ithkuilic Language's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   source/meow
+   source/woof
+
 
 
 Indices and tables

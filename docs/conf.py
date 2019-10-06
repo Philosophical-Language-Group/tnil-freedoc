@@ -31,6 +31,7 @@ author = 'porpoiseless, HactarCE'
 # ones.
 extensions = [
     'sphinx_rtd_theme',
+    'recommonmark',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -53,3 +54,10 @@ html_theme = 'sphinx_rtd_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+html_theme_options = {
+    'display_version': False,
+    'style_external_links': True,
+    # 'style_nav_header_background': '#C54F4F',
+    'sticky_navigation': False,
+}
