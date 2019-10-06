@@ -1,29 +1,54 @@
 ---
-name: Valence
+name: valence
 brief: roles of additional co-participants to the verb
+full: TODO
 values:
   - abbrev: MNO
-    name: Monoactive
+    name: monoactive
+    brief: no co-participant
+    full: TODO
   - abbrev: PRL
-    name: Parallel
+    name: parallel
+    brief: performing same activity
+    full: TODO
   - abbrev: CRO
-    name: Corollary
+    name: corollary
+    brief: performing related activity
+    full: TODO
   - abbrev: RCP
-    name: Reciprocal
+    name: reciprocal
+    brief: performing same activity with roles reversed
+    full: TODO
   - abbrev: CPL
-    name: Complementary
+    name: complementary
+    brief: performing distinct but complementary activity
+    full: TODO
   - abbrev: DUP
-    name: Duplicative
+    name: duplicative
+    brief: performing same activity in parallel
+    full: TODO
   - abbrev: DEM
-    name: Demonstrative
+    name: demonstrative
+    brief: learning by demonstration
+    full: TODO
   - abbrev: IMT
-    name: Imitative
+    name: imitative
+    brief: mimicking first party
+    full: TODO
   - abbrev: CNG
-    name: Contingent
+    name: contingent
+    brief: performing next step of process
+    full: TODO
   - abbrev: PTI
-    name: Participative
+    name: participative
+    brief: partcipating in activity
+    full: TODO
   - abbrev: IDC
-    name: Indicative
+    name: indicative
+    brief: perceiving cue/nuance/implication from first party
+    full: TODO
   - abbrev: MUT
-    name: Mutual
+    name: mutual
+    brief: alternating/taking turns
+    full: TODO
 ...

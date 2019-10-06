@@ -1,0 +1,25 @@
+# Morphological categories
+
+- [**Affiliation**](affiliation.md) - _(dis)similarity of purpose between members of configurative set_
+- [**Aspect**](aspect.md) - _temporal location and shape_
+- [**Case**](case.md) - _role in the action of a sentence_
+- [**Case scope**](case_scope.md) - _TODO_
+- [**Configuration**](configuration.md) - _physical (dis)similarity and spatiotemporal connectedness_
+- [**Context**](context.md) - _relevant domain of features implied by the formative_
+- [**Designation**](designation.md) - _TODO_
+- [**Effect**](effect.md) - _TODO_
+- [**Essence**](essence.md) - _real vs. imaginary_
+- [**Extension**](extension.md) - _spatiotemporal limits relative to current context_
+- [**Function**](function.md) - _TODO_
+- [**Illocution**](illocution.md) - _facticity and speech act_
+- [**Level**](level.md) - _TODO_
+- [**Mood**](mood.md) - _hypothetical based on implicit supposition_
+- [**Perspective**](perspective.md) - _configurative set_
+- [**Phase**](phase.md) - _repetitive nature_
+- [**Register**](register.md) - _relation of utterance to context_
+- [**Sanction**](sanction.md) - _conversational role and truth-commitment_
+- [**Specification**](specification.md) - _TODO_
+- [**Valence**](valence.md) - _roles of additional co-participants to the verb_
+- [**Version**](version.md) - _goal-driven vs. process-driven_
+- [**VxCs degree**](vxcs_degree.md) - _TODO_
+- [**VxCs type**](vxcs_type.md) - _TODO_

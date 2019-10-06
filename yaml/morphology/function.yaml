@@ -1,0 +1,14 @@
+---
+name: function
+brief: TODO
+full: TODO
+values:
+  - abbr: STA
+    name: stative
+    brief: TODO
+    full: TODO
+  - abbr: DYN
+    name: dynamic
+    brief: TODO
+    full: TODO
+...
