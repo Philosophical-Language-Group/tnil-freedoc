@@ -55,7 +55,12 @@ def rst_section(heading_level, data, *, include_heading=True):
     else:
         ret = ''
     ret += data['full'].strip()
+    values = data.get('values')
+    groups = data.get('groups')
     ret += "\n\n"
+    if values:
+        ret += f"There are {len(values)} {cap(data['name'])}s"
+        ret += "\n\n"
     return ret
 
 
