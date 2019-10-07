@@ -1,10 +1,12 @@
 setup:
-	mkdir -p output
-	mkdir -p docs/morphology
-graphics: setup
-	./scripts/preview_graphics.sh ./graphics ./output
+	mkdir -p docs/_generated/morpho
+# graphics: setup
+# 	./scripts/preview_graphics.sh ./graphics ./output
 docs: setup
-	./scripts/make_morpho_docs.py ./yaml/morphology ./docs/morphology
+	./scripts/make_morpho_docs.py ./NILDB/morpho ./docs/_generated/morpho
+html:
+	cd docs && make html
+all: docs html
 clean:
-	rm -r output
-	rm -r docs/morphology
+	rm -r docs/_generated
+	cd docs && make clean

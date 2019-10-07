@@ -10,6 +10,7 @@ try:
 except ModuleNotFoundError:
     print("Cannot run without 'yaml' package")
 
+
 try:
     in_dir = sys.argv[1]
     out_dir = sys.argv[2]
@@ -18,42 +19,57 @@ except IndexError:
     print(sys.argv[0] + " <in_dir> <out_dir>")
 
 
+HEADINGS = '=-^'
+BULLETS = '-+*'
+
+
 def cap(s):
     """Capitalize the first letter of a string, preserving the rest."""
     return s[0].upper() + s[1:]
 
 
-def md_bullet(bullet_level, data, *, link_file='', exclude_header=False):
-    ret = "  " * (bullet_level - 1) + "- "
-    if exclude_header:
-        link = link_file
-    else:
-        link = f"{link_file}#{data['name'].replace(' ', '-')}"
-    link_text = f"**{cap(data['name'])}**"
-    if link:
-        ret += f"[{link_text}]({link})"
-    else:
-        ret += link_text
+def rst_heading(heading_level, s):
+    return cap(s) + "\n" + HEADINGS[heading_level - 1] * len(s)
+
+
+def rst_bullet(bullet_level, data):
+    ret = "  " * (bullet_level - 1) + BULLETS[bullet_level - 1] + " "
+    link = f"`{cap(data['name'])}`_"
+    # link = f"{link_file}#{data['name'].replace(' ', '-')}"
+    # link_text = f"**{cap(data['name'])}**"
+    # if link:
+    #     ret += f"[{link_text}]({link})"
+    # else:
+    #     ret += link_text
+    ret += link
     ret += " - "
-    ret += f"_{data['brief']}_"
+    ret += f"*{data['brief']}*"
     ret += "\n"
     return ret
 
 
-def md_section(header_level, data, *, title_suffix=''):
-    ret = "#" * header_level + " "
-    ret += cap(data['name']) + title_suffix
-    ret += "\n\n"
+def rst_section(heading_level, data, *, include_heading=True):
+    if include_heading:
+        ret = rst_heading(heading_level, data['name'])
+        ret += "\n\n"
+    else:
+        ret = ''
     ret += data['full'].strip()
     values = data.get('values')
-    if values:
-        ret += "\n\n There are " + str(len(values)) + " " + cap(data['name']) + "s:"
+    groups = data.get('groups')
     ret += "\n\n"
+    if values:
+        suffix = '' if data['name'].endswith('s') else 's'
+        ret += f"There are {len(values)} {cap(data['name'])}{suffix}"
+        if groups:
+            ret += f" split into {len(groups)} groups"
+        ret += ":"
+        ret += "\n\n"
     return ret
 
 
-def md_all(header_level, data, **kwargs):
-    ret = md_section(header_level, data, **kwargs)
+def rst_all(heading_level, data, **kwargs):
+    ret = rst_section(heading_level, data, **kwargs)
     inners = None
     values = data.get('values')
     if values:
@@ -67,19 +83,16 @@ def md_all(header_level, data, **kwargs):
             group['name'] += f" {data['name']}s"
             group['values'] = list(map(values_dict.get, group['members']))
         inners = groups
+    if data.get('values_in_rst') == False:
+        inners = None
     if inners:
         for inner in inners:
-            ret += md_bullet(1, inner)
-            for value in inner.get('values', []):
-                ret += md_bullet(2, value)
+            ret += rst_bullet(1, inner)
+        ret += "\n"
         for inner in inners:
-            ret += md_all(header_level + 1, inner)
+            ret += rst_all(heading_level + 1, inner)
     return ret
 
-
-index_md = """
-# Morphological categories
-""".strip() + '\n\n'
 
 for file in sorted(os.listdir(in_dir)):
     if file.startswith('_'):
@@ -87,28 +100,17 @@ for file in sorted(os.listdir(in_dir)):
     if not file.endswith('.yaml'):
         continue
     in_file = path.join(in_dir, file)
-    out_filename = file[:-5] + '.md'
+    out_filename = file[:-5].replace('_', '-') + '.rst'
     out_file = path.join(out_dir, out_filename)
     print(f"Making {out_filename}")
     markdown = ''
     with open(in_file) as f:
         category = yaml.load(f, yaml.SafeLoader)
-    index_md += md_bullet(1, category, link_file=out_filename, exclude_header=True)
+    if category.get('groups'):
+        heading_level = 1
+        include_heading = False
+    else:
+        heading_level = 2
+        include_heading = True
     with open(out_file, 'w') as f:
-        f.write(md_all(1, category))
-        # f.write(md_section(1, category))
-        # if category.get('groups'):
-        #     category_values_dict = {}
-        #     for category_value in category['values']:
-        #         category_values_dict[category_value['abbr']] = category_value
-        #     for group in category['groups']:
-        #         f.write(md_section(2, group, title_suffix=f" {category['name']}s"))
-        #         for member in group['members']:
-        #             category_value = category_values_dict[member]
-        #             f.write(md_section(3, category_value))
-        # else:
-        #     for category_value in category['values']:
-        #         f.write(md_section(2, category_value))
-
-with open(path.join(out_dir, 'index.md'), 'w') as f:
-    f.write(index_md)
+        f.write(rst_all(heading_level, category, include_heading=include_heading))
