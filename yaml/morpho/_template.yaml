@@ -8,8 +8,8 @@ full: |
 
   Not that the "literal" block scalar style (`|`) is used here rather than
   "folded" (`>`), so newlines are preserved as-is. This is desirable when
-  rendering to Markdown, but in other cases, be aware of newlines. YAML
-  terminates the entire with a single newline when parsed.
+  rendering to Markdown or reStructuredText, but in other cases, be aware of
+  newlines. YAML terminates the entire with a single newline when parsed.
 
   Note that `name` and `brief` are lowercased initially, while `abbrev` (later)
   and `full` are capitalized appropraitely. `name` and `brief` should be
