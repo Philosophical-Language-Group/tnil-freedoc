@@ -5,14 +5,14 @@ full: TODO
 values:
   - abbr: ₁
     name: type 1
-    brief: TODO
+    brief: circumstancial
     full: TODO
   - abbr: ₂
     name: type 2
-    brief: TODO
+    brief: derivational
     full: TODO
   - abbr: ₃
     name: type 3
-    brief: TODO
+    brief: modifier
     full: TODO
 ...
