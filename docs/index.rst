@@ -6,9 +6,12 @@
 Welcome to The New Ithkuilic Language's documentation!
 ======================================================
 
+TODO
+
 .. toctree::
    :maxdepth: 2
    :caption: The Basics
+   :hidden:
 
    source/basics/intro
    source/basics/phonology
@@ -20,6 +23,7 @@ Welcome to The New Ithkuilic Language's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Morphology
+   :hidden:
 
    source/morpho/lexical
    source/morpho/ca
@@ -31,6 +35,7 @@ Welcome to The New Ithkuilic Language's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Morpho-phonology
+   :hidden:
 
    source/morphophono/formatives
    source/morphophono/adjuncts
@@ -40,6 +45,7 @@ Welcome to The New Ithkuilic Language's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Lexicon
+   :hidden:
 
    source/lexicon/roots
    source/lexicon/cs
@@ -47,6 +53,7 @@ Welcome to The New Ithkuilic Language's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Advanced
+   :hidden:
 
    source/advanced/root-incorporation
    source/advanced/mathematical-sublanguage
@@ -56,5 +63,6 @@ Welcome to The New Ithkuilic Language's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Texts
+   :hidden:
 
    source/texts/examples
