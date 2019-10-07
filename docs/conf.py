@@ -56,6 +56,7 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 html_theme_options = {
+    'master_doc': 'index',
     'display_version': False,
     'style_external_links': True,
     # 'style_nav_header_background': '#C54F4F',
