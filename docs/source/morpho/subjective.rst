@@ -1,5 +1,0 @@
-Subjective morphology
-==================
-
-- Effect
-- Bias

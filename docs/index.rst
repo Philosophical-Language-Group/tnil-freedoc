@@ -26,7 +26,7 @@ Welcome to The New Ithkuilic Language's documentation!
    source/morpho/vxcs
    source/morpho/verbal
    source/morpho/case
-   source/morpho/subjective
+   source/morpho/other
 
 .. toctree::
    :maxdepth: 2
@@ -48,20 +48,13 @@ Welcome to The New Ithkuilic Language's documentation!
    :maxdepth: 2
    :caption: Advanced
 
-   source/advanced/phonotactics
+   source/advanced/root-incorporation
    source/advanced/mathematical-sublanguage
    source/advanced/writing-system
+   source/advanced/phonotactics
 
 .. toctree::
    :maxdepth: 2
    :caption: Texts
 
    source/texts/examples
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

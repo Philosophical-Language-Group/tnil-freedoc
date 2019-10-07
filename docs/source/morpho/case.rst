@@ -1,4 +1,6 @@
 Case morphology
 ==================
 
-.. include:: ../../_generated/morphology/case.rst
+.. include:: ../../_generated/morpho/case.rst
+
+.. include:: ../../_generated/morpho/case-scope.rst
