@@ -77,11 +77,7 @@ def rst_all(heading_level, data, **kwargs):
     if inners:
         for inner in inners:
             ret += rst_bullet(1, inner)
-            # if inner.get('values'):
-            #     ret += '\n'
-            #     for value in inner.get('values', []):
-            #         ret += rst_bullet(2, value)
-            #     ret += '\n'
+        ret += "\n"
         for inner in inners:
             ret += rst_all(heading_level + 1, inner)
     return ret
