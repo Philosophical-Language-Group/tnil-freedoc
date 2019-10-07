@@ -60,6 +60,9 @@ def rst_section(heading_level, data, *, include_heading=True):
     ret += "\n\n"
     if values:
         ret += f"There are {len(values)} {cap(data['name'])}s"
+        if groups:
+            ret += f" split into {len(groups)} groups"
+        ret += ":"
         ret += "\n\n"
     return ret
 
