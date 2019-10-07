@@ -31,10 +31,6 @@ values:
     name: demonstrative
     brief: learning by demonstration
     full: TODO
-  - abbrev: IMT
-    name: imitative
-    brief: mimicking first party
-    full: TODO
   - abbrev: CNG
     name: contingent
     brief: performing next step of process
@@ -46,9 +42,5 @@ values:
   - abbrev: IDC
     name: indicative
     brief: perceiving cue/nuance/implication from first party
-    full: TODO
-  - abbrev: MUT
-    name: mutual
-    brief: alternating/taking turns
     full: TODO
 ...
