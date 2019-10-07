@@ -59,7 +59,8 @@ def rst_section(heading_level, data, *, include_heading=True):
     groups = data.get('groups')
     ret += "\n\n"
     if values:
-        ret += f"There are {len(values)} {cap(data['name'])}s"
+        suffix = '' if data['name'].endswith('s') else 's'
+        ret += f"There are {len(values)} {cap(data['name'])}{suffix}"
         if groups:
             ret += f" split into {len(groups)} groups"
         ret += ":"
