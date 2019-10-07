@@ -1,2 +1,0 @@
-# Extension
-Extension picks out a spatiotemporal part of the set (beginning, end), its dynamics (increasing, decreasing), and its characterization as either circumscribed by or transcending the discursive context. 
