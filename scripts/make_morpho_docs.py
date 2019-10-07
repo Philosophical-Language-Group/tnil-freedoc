@@ -45,6 +45,9 @@ def md_section(header_level, data, *, title_suffix=''):
     ret += cap(data['name']) + title_suffix
     ret += "\n\n"
     ret += data['full'].strip()
+    values = data.get('values')
+    if values:
+        ret += "\n\n There are " + str(len(values)) + " " + cap(data['name']) + "s:"
     ret += "\n\n"
     return ret
 
