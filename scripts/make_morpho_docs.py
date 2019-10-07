@@ -74,6 +74,8 @@ def rst_all(heading_level, data, **kwargs):
             group['name'] += f" {data['name']}s"
             group['values'] = list(map(values_dict.get, group['members']))
         inners = groups
+    if data.get('values_in_rst') == False:
+        inners = None
     if inners:
         for inner in inners:
             ret += rst_bullet(1, inner)
@@ -89,7 +91,7 @@ for file in sorted(os.listdir(in_dir)):
     if not file.endswith('.yaml'):
         continue
     in_file = path.join(in_dir, file)
-    out_filename = file[:-5] + '.rst'
+    out_filename = file[:-5].replace('_', '-') + '.rst'
     out_file = path.join(out_dir, out_filename)
     print(f"Making {out_filename}")
     markdown = ''

@@ -2,6 +2,7 @@
 name: VxCs degree
 brief: TODO
 full: TODO
+values_in_rst: no
 values:
   - abbr: '1'
     name: degree 1
