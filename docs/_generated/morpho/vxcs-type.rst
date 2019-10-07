@@ -3,6 +3,8 @@ VxCs type
 
 TODO
 
+There are 3 VxCs types:
+
 - `Type 1`_ - *circumstancial*
 - `Type 2`_ - *derivational*
 - `Type 3`_ - *modifier*

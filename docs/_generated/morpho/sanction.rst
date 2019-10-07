@@ -3,6 +3,8 @@ Sanction
 
 TODO
 
+There are 9 Sanctions:
+
 - `Propositional`_ - *materially factual*
 - `Epistemic`_ - *socially/conventionally factual*
 - `Allegative`_ - *personal opinion/belief*

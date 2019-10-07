@@ -3,6 +3,8 @@ Specification
 
 TODO
 
+There are 4 Specifications:
+
 - `Basic`_ - *TODO*
 - `Contential`_ - *TODO*
 - `Constitutive`_ - *TODO*

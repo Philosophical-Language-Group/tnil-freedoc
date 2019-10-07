@@ -1,5 +1,7 @@
 TODO
 
+There are 68 Cases split into 6 groups:
+
 - `Transrelative cases`_ - *TODO*
 - `Appositive cases`_ - *TODO*
 - `Associative cases`_ - *TODO*
@@ -10,7 +12,9 @@ TODO
 Transrelative cases
 -------------------
 
-There are 9 Transrelative cases. TODO more
+TODO
+
+There are 9 Transrelative cases:
 
 - `Thematic`_ - *content*
 - `Instrumental`_ - *instrument used by agent to accomplish action*
@@ -70,7 +74,9 @@ TODO
 Appositive cases
 ----------------
 
-There are 9 Appositive cases. TODO more
+TODO
+
+There are 9 Appositive cases:
 
 - `Possessive`_ - *alienable control/oversight*
 - `Proprietive`_ - *official/accepted ownership/oversight*
@@ -130,7 +136,9 @@ TODO
 Associative cases
 -----------------
 
-There are 9 Associative cases. TODO more
+TODO
+
+There are 9 Associative cases:
 
 - `Applicative`_ - *current utilization/purpose*
 - `Purposive`_ - *intended utilization/purpose*
@@ -190,7 +198,9 @@ TODO
 Adverbial cases
 ---------------
 
-There are 9 Adverbial cases. TODO more
+TODO
+
+There are 9 Adverbial cases:
 
 - `Concessive`_ - *“despite X”*
 - `Aversive`_ - *“to avoid X”*
@@ -250,7 +260,9 @@ TODO
 Spatio-temporal cases
 ---------------------
 
-There are 16 Spatio-temporal cases. TODO more
+TODO
+
+There are 16 Spatio-temporal cases:
 
 - `Locative`_ - *location*
 - `Attendant`_ - *entity present*
@@ -352,7 +364,9 @@ TODO
 Relational cases
 ----------------
 
-There are 16 Relational cases. TODO more
+TODO
+
+There are 16 Relational cases:
 
 - `Referential`_ - *“pertaining to X”*
 - `Correlative`_ - *abstract association*

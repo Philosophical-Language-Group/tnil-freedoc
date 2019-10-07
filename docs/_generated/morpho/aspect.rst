@@ -3,6 +3,8 @@ Aspect
 
 TODO
 
+There are 36 Aspects:
+
 - `Retrospective`_ - *TODO*
 - `Prospective`_ - *TODO*
 - `Habitual`_ - *TODO*

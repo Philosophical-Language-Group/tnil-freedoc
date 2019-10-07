@@ -3,6 +3,8 @@ Valence
 
 TODO
 
+There are 10 Valences:
+
 - `Monoactive`_ - *no co-participant*
 - `Parallel`_ - *performing same activity*
 - `Corollary`_ - *performing related activity*

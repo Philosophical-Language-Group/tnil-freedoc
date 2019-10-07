@@ -3,6 +3,8 @@ Context
 
 TODO
 
+There are 4 Contexts:
+
 - `Existential`_ - *objective, material reality*
 - `Functional`_ - *subjective, socially conditioned reality*
 - `Representational`_ - *symbolic or analogical use*

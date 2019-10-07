@@ -3,6 +3,8 @@ Illocution
 
 TODO
 
+There are 9 Illocutions:
+
 - `Confirmative`_ - *testimony of direct observation*
 - `Inferential`_ - *conclusion of reasoning*
 - `Intuitive`_ - *intuition/hunch*

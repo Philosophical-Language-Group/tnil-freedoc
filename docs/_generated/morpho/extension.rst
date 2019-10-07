@@ -6,7 +6,7 @@ its dynamics (gradual vs. immediate beginning/end), and its characterization
 as either circumscribed by or transcending the discursive context (i.e., is
 the whole object being discussed, or only part of it?).
 
-There are six Extensions:
+There are 6 Extensions:
 
 - `Delimitive`_ - *discrete, with accessible boundaries*
 - `Proximal`_ - *transcending the current context, or without accessible limits*

@@ -3,6 +3,8 @@ Case scope
 
 TODO
 
+There are 6 Case scopes:
+
 - `CCw`_ - *TODO*
 - `CCm`_ - *TODO*
 - `CCy`_ - *TODO*

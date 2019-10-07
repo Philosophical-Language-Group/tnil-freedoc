@@ -3,6 +3,8 @@ Level
 
 TODO
 
+There are 9 Levels:
+
 - `Minimal`_ - *TODO*
 - `Subequative`_ - *TODO*
 - `Inferior`_ - *TODO*

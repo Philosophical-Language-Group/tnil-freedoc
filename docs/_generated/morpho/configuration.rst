@@ -3,6 +3,8 @@ Configuration
 
 TODO
 
+There are 9 Configurations:
+
 - `Uniplex`_ - *individual instance*
 - `Duplex`_ - *pair of instances*
 - `Discrete`_ - *many similar instances*

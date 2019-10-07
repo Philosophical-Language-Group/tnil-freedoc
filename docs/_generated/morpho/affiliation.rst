@@ -3,6 +3,8 @@ Affiliation
 
 TODO
 
+There are 4 Affiliations:
+
 - `Consolidative`_ - *undetermined/irrelevant shared use/condition/purpose*
 - `Associative`_ - *shared use/condition/purpose*
 - `Variative`_ - *conflicted use/condition/purpose*

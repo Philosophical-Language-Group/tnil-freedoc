@@ -3,6 +3,8 @@ Phase
 
 TODO
 
+There are 9 Phases:
+
 - `Contextual`_ - *single relatively brief event*
 - `Punctual`_ - *single instant event*
 - `Iterative`_ - *rapidly repeating instant events*
