@@ -3,9 +3,9 @@ VxCs type
 
 TODO
 
-- `Type 1`_ - *TODO*
-- `Type 2`_ - *TODO*
-- `Type 3`_ - *TODO*
+- `Type 1`_ - *circumstancial*
+- `Type 2`_ - *derivational*
+- `Type 3`_ - *modifier*
 
 Type 1
 ^^^^^^
