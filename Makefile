@@ -3,7 +3,7 @@ setup:
 # graphics: setup
 # 	./scripts/preview_graphics.sh ./graphics ./output
 docs: setup
-	./scripts/make_morpho_docs.py ./yaml/morpho ./docs/_generated/morpho
+	./scripts/make_morpho_docs.py ./NILDB/morpho ./docs/_generated/morpho
 html:
 	cd docs && make html
 all: docs html
