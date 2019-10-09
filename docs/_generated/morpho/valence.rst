@@ -1,7 +1,8 @@
 Valence
 -------
 
-TODO
+VALENCE describes the role that parties other than the explicitly
+marked agent play in the action of a verb.
 
 There are 10 Valences:
 

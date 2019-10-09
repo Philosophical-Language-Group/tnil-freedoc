@@ -1,8 +1,9 @@
-TODO
+CASE indicates the way the marked word relates to other words in the
+clause, especially the main verb.
 
 There are 68 Cases split into 6 groups:
 
-- `Transrelative cases`_ - *TODO*
+- `Transrelative cases`_ - *main parties to the verb*
 - `Appositive cases`_ - *TODO*
 - `Associative cases`_ - *TODO*
 - `Adverbial cases`_ - *TODO*

@@ -1,7 +1,14 @@
 Configuration
 -------------
 
-TODO
+CONFIGURATION conveys the quantity, spatiotemporal continuity, and physical
+similarity of the items named by the stem. Unlike [[Affiliation]], this
+category focuses on the physical variation of the items, rather than on
+variations of function or purpose. CONFIGURATION provides mass nouns for stems
+and works together with [[Perspective]] to communicate number. It communicates
+whether the members of a group are separate, touching, or fused together, and
+also provides a way of talking about questionable or borderline applications
+of the stem.
 
 There are 9 Configurations:
 
