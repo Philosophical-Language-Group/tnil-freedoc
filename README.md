@@ -13,12 +13,7 @@ family, including graphics illustrating several morphological categories.
 
 ## Contributing
 
-Contributions are welcome!
-
-The [YAML](https://yaml.org/) layout is described in
-[yaml/morphology/_template.yaml](yaml/morphology/_template.yaml); formatting
-guidelines will come soon. See [progress.md](progress.md) for what's left to be
-done.
+Contributions are welcome! See [NILDB](https://www.github.com/HactarCE/NILDB/#contributing) for details.
 
 ## Graphics
 
