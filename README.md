@@ -1,6 +1,6 @@
 # Libre TNIL documentation
 
-**[Click here for the latest documentation.](https://hactarce.github.io/tnil-freedoc/)**
+**[Click here for the latest documentation.](http://tnil.rtfd.io/)**
 
 ## Overview
 
