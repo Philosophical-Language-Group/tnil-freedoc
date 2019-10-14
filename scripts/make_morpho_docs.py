@@ -92,6 +92,12 @@ def rst_section(heading_level, data, *, include_heading=True):
 
 
 def rst_all(heading_level, data, **kwargs):
+    """Recursively generate nested reST sections.
+
+    Create a section for a category and a subsection for each value, or (if the
+    category has groups) a section for a category, a subsection for each group,
+    and a subsubsection for each value.
+    """
     ret = rst_section(heading_level, data, **kwargs)
     inners = None
     values = data.get('values')
@@ -138,13 +144,14 @@ for file in sorted(os.listdir(in_dir)):
     with open(in_file) as f:
         # Read the file as YAML.
         category = yaml.load(f, yaml.SafeLoader)
+    # If the category has groups, indent one level less and exclude
+    # top-level heading since this category will be in its own file.
     if category.get('groups'):
-        # If the category has groups, indent one level less and exclude
-        # top-level heading since this category will be in its own file.
         heading_level = 1
         include_heading = False
     else:
         heading_level = 2
         include_heading = True
+    # Write the output.
     with open(out_file, 'w') as f:
         f.write(rst_all(heading_level, category, include_heading=include_heading))
