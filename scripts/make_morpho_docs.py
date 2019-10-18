@@ -56,15 +56,6 @@ for file in sorted(os.listdir(in_dir)):
     with open(in_file) as f:
         # Read the file as YAML.
         category = yaml.load(f, yaml.SafeLoader)
-    # If the category has groups, indent one level less and exclude
-    # top-level heading since this category will be in its own file.
-    # if category.get('groups'):
-    #     heading_level = 1
-    #     include_heading = False
-    # else:
-    #     heading_level = 2
-    #     include_heading = True
-    # Write the output.
+    # pass the data to the template and write to file 
     with open(out_file, 'w') as f:
-        # f.write(rst_all(heading_level, category, include_heading=include_heading))
         f.write(template.render(category))
