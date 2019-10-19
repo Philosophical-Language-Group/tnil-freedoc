@@ -1,44 +1,53 @@
-Case scope
-----------
 
+Case Scope
+==========
 TODO
+There are 6 Case Scopes:
+- CCw_: *TODO*
+- CCm_: *TODO*
+- CCy_: *TODO*
+- CCn_: *TODO*
+- CCl_: *TODO*
+- CCx_: *TODO*
 
-There are 6 Case scopes:
 
-- `CCw`_ - *TODO*
-- `CCm`_ - *TODO*
-- `CCy`_ - *TODO*
-- `CCn`_ - *TODO*
-- `CCl`_ - *TODO*
-- `CCx`_ - *TODO*
 
-CCw
-^^^
 
+
+.. _CCw:
+Ccw
+---
 TODO
+Abbreviation: CCw
 
-CCm
-^^^
-
+.. _CCm:
+Ccm
+---
 TODO
+Abbreviation: CCm
 
-CCy
-^^^
-
+.. _CCy:
+Ccy
+---
 TODO
+Abbreviation: CCy
 
-CCn
-^^^
-
+.. _CCn:
+Ccn
+---
 TODO
+Abbreviation: CCn
 
-CCl
-^^^
-
+.. _CCl:
+Ccl
+---
 TODO
+Abbreviation: CCl
 
-CCx
-^^^
-
+.. _CCx:
+Ccx
+---
 TODO
+Abbreviation: CCx
+
 

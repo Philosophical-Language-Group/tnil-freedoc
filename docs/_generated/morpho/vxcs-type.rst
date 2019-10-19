@@ -1,26 +1,32 @@
-VxCs type
----------
 
+Vxcs Type
+=========
 TODO
+There are 3 Vxcs Types:
+- type 1_: *circumstancial*
+- type 2_: *derivational*
+- type 3_: *modifier*
 
-There are 3 VxCs types:
 
-- `Type 1`_ - *circumstancial*
-- `Type 2`_ - *derivational*
-- `Type 3`_ - *modifier*
 
+
+
+.. _₁:
 Type 1
-^^^^^^
-
+------
 TODO
+Abbreviation: ₁
 
+.. _₂:
 Type 2
-^^^^^^
-
+------
 TODO
+Abbreviation: ₂
 
+.. _₃:
 Type 3
-^^^^^^
-
+------
 TODO
+Abbreviation: ₃
+
 
