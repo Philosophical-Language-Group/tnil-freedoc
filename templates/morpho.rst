@@ -1,19 +1,15 @@
-{% macro rst_section_heading(text, underline) -%}
-{{ text|title }}
-{{ underline * text|length}}
-{%- endmacro %}
-{{ rst_section_heading(name, '=') }}
-
-{{ full }}
-
-There are {{ values|length }} {{ name|title }}s:
-
+{%- from "rst_utils.rst" import section, toc_values, toc_groups -%}
+{{ section(name, 2, full) }}
+There are {{ values|length }} {{ name|title }}s
+{%- if groups %} divided into {{ groups|length }} groups
+{%- endif -%}:
+{%- if groups -%}
+{{ toc_groups(groups) }}
+{%- else -%}
+{{ toc_values(values) }}
+{%- endif -%}
 {% for value in values %}
-- {{ value['name'] }}_: {{ value['brief'] }}
-{% endfor %}
-
-{% for value in values %}
-{{ rst_section_heading(value['name'], '-')}}
-
-{{ value['full'] }}
+{% if value['abbr'] %}.. _{{ value['abbr'] }}:{% endif %}
+{{ section(value['name'], 3, value['full']) }}
+{% if value['abbr'] %}{{ "Abbreviation: " + value['abbr'] }}{% endif %}
 {% endfor %}
