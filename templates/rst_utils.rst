@@ -11,7 +11,7 @@
 {{ " " * level + "- " + text}}
 {% endmacro %}
 {% macro toc_values(values, level=0) %}
-{% for value in values -%}
+{%- for value in values -%}
 {{ bullet(value['name'] + "_: *" + value['brief'] + "*", level) }}
 {%- endfor -%}
 {%- endmacro -%}

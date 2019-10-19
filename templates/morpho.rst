@@ -12,14 +12,15 @@ There are {{ values|length }} {{ name|title }}s
 {%- endif -%}:
 {%- if groups -%}
 {{ toc_groups(groups) }}
-{%- else -%}
+{% else %}
 {{ toc_values(values) }}
-{%- endif -%}
-{%- if groups -%}
+{% endif %}
+{% if groups %}
 {% for group in groups %}
 {{ section(group['name'], 3, group['full']) }}
+
 {{ enumerate_values(group['members'], 4) }}
 {% endfor %}
-{%- else -%}
+{% else %}
 {{ enumerate_values(values) }}
 {% endif %}
