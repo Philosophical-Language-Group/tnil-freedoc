@@ -50,8 +50,6 @@ for file in sorted(os.listdir(in_dir)):
     # Save the path to the output file.
     out_file = path.join(out_dir, out_filename)
     print(f"Making {out_filename}")
-    # This will hold the reST content to be written to the file.
-    markdown = ''
     # Open the input file.
     with open(in_file) as f:
         # Read the file as YAML.
