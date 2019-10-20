@@ -11,6 +11,7 @@ also provides a way of talking about questionable or borderline applications
 of the stem.
 
 There are 9 Configurations:
+
 - Uniplex_: *individual instance*
 - Duplex_: *pair of instances*
 - Discrete_: *many similar instances*

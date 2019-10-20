@@ -3,6 +3,7 @@ Register
 ========
 TODO
 There are 8 Registers:
+
 - narrative_: *general speech/narration*
 - discursive_: *direct quote*
 - parenthetical_: *aside/footnote*

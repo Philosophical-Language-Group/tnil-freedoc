@@ -3,6 +3,7 @@ Function
 ========
 TODO
 There are 2 Functions:
+
 - stative_: *TODO*
 - dynamic_: *TODO*
 

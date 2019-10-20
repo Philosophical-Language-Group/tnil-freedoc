@@ -3,6 +3,7 @@ Level
 =====
 TODO
 There are 9 Levels:
+
 - minimal_: *TODO*
 - subequative_: *TODO*
 - inferior_: *TODO*

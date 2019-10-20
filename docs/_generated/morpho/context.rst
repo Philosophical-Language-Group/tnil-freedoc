@@ -3,6 +3,7 @@ Context
 =======
 TODO
 There are 4 Contexts:
+
 - existential_: *objective, material reality*
 - functional_: *subjective, socially conditioned reality*
 - representational_: *symbolic or analogical use*

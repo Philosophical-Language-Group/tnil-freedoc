@@ -7,6 +7,7 @@ as either circumscribed by or transcending the discursive context (i.e., is
 the whole object being discussed, or only part of it?).
 
 There are 6 Extensions:
+
 - delimitive_: *discrete, with accessible boundaries*
 - proximal_: *transcending the current context, or without accessible limits*
 - inceptive_: *spatiotemporal beginning*

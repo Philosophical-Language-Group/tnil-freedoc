@@ -7,6 +7,7 @@ by the stem. Unlike the physical similarities and differences found in
 the members of a group either reinforce, conflict, or complement each other.
 
 There are 4 Affiliations:
+
 - consolidative_: *undetermined/irrelevant shared use/condition/purpose*
 - associative_: *shared use/condition/purpose*
 - variative_: *conflicted use/condition/purpose*

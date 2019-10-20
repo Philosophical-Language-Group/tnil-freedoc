@@ -8,6 +8,7 @@ meaning of DESIGNATION must be memorized for each root or pattern of
 roots.
 
 There are 2 Designations:
+
 - informal_: *unofficial/temporary/circumstantial/unconscious*
 - formal_: *official/permanent/deliberate/self-aware*
 

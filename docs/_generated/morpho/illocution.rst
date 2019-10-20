@@ -3,6 +3,7 @@ Illocution
 ==========
 TODO
 There are 9 Illocutions:
+
 - confirmative_: *testimony of direct observation*
 - inferential_: *conclusion of reasoning*
 - intuitive_: *intuition/hunch*

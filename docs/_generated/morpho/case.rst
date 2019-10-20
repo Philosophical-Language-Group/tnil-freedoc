@@ -5,6 +5,7 @@ CASE indicates the way the marked word relates to other words in the
 clause, especially the main verb.
 
 There are 68 Cases divided into 6 groups:
+
 - transrelative_: *main parties to the verb*
  - thematic_: *content*
  - instrumental_: *instrument used by agent to accomplish action*

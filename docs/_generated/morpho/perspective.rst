@@ -13,6 +13,7 @@ TODO provide table of Tense-Aspect-Extension and Tense-Aspect1-Aspect2
 combos
 
 There are 4 Perspectives:
+
 - monadic_: *single instance*
 - polyadic_: *multiple instances*
 - nomic_: *all instances in space and time*

@@ -3,6 +3,7 @@ Effect
 ======
 TODO
 There are 3 Effects:
+
 - beneficial_: *TODO*
 - detrimental_: *TODO*
 - unknown_: *TODO*

@@ -10,9 +10,10 @@
 There are {{ values|length }} {{ name|title }}s
 {%- if groups %} divided into {{ groups|length }} groups
 {%- endif -%}:
-{%- if groups -%}
+{%- if groups %}
 {{ toc_groups(groups) }}
 {% else %}
+
 {{ toc_values(values) }}
 {% endif %}
 {% if groups %}

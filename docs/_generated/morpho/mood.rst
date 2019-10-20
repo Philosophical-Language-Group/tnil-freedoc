@@ -3,6 +3,7 @@ Mood
 ====
 TODO
 There are 6 Moods:
+
 - factual_: *statement is true*
 - subjunctive_: *supposition is true but statement is uncertain*
 - assumptive_: *supposition is unknown but statement is true if supposition is true*

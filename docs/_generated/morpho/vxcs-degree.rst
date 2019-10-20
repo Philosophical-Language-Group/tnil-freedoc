@@ -3,6 +3,7 @@ Vxcs Degree
 ===========
 TODO
 There are 10 Vxcs Degrees:
+
 - degree 1_: *TODO*
 - degree 2_: *TODO*
 - degree 3_: *TODO*
