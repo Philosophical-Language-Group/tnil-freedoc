@@ -1,6 +1,8 @@
 
+***********
 Affiliation
-===========
+***********
+
 AFFILIATION indicates the functional interrelationships of the item(s) named
 by the stem. Unlike the physical similarities and differences found in
 [[Configuration]], AFFILIATION expresses the ways the roles or tendencies of
@@ -18,26 +20,34 @@ There are 4 Affiliations:
 
 
 .. _CSL:
+
 Consolidative
--------------
+=============
+
 TODO
 Abbreviation: CSL
 
 .. _ASO:
+
 Associative
------------
+===========
+
 TODO
 Abbreviation: ASO
 
 .. _VAR:
+
 Variative
----------
+=========
+
 TODO
 Abbreviation: VAR
 
 .. _COA:
+
 Coalescent
-----------
+==========
+
 TODO
 Abbreviation: COA
 

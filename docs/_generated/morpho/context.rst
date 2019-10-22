@@ -1,6 +1,8 @@
 
+*******
 Context
-=======
+*******
+
 TODO
 There are 4 Contexts:
 
@@ -14,26 +16,34 @@ There are 4 Contexts:
 
 
 .. _EXS:
+
 Existential
------------
+===========
+
 TODO
 Abbreviation: EXS
 
 .. _FNC:
+
 Functional
-----------
+==========
+
 TODO
 Abbreviation: FNC
 
 .. _RPS:
+
 Representational
-----------------
+================
+
 TODO
 Abbreviation: RPS
 
 .. _AMG:
+
 Amalgamative
-------------
+============
+
 TODO
 Abbreviation: AMG
 

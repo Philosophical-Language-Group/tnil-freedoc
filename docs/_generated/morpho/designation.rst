@@ -1,6 +1,8 @@
 
+***********
 Designation
-===========
+***********
+
 DESIGNATION contrasts between temporary, unofficial, or inadvertent
 states and actions and their permanent, official, or deliberate
 counterparts. Because it is a derivational category, the precise
@@ -17,16 +19,20 @@ There are 2 Designations:
 
 
 .. _IFL:
+
 Informal
---------
+========
+
 INFORMAL stems refer to unauthorized, accidental, or contingent
 manifestations of a root. 
 
 Abbreviation: IFL
 
 .. _FML:
+
 Formal
-------
+======
+
 FORMAL stems represent authorized, planned, or essential
 instances of a root.
 

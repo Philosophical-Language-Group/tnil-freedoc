@@ -1,6 +1,8 @@
 
+********
 Function
-========
+********
+
 TODO
 There are 2 Functions:
 
@@ -12,14 +14,18 @@ There are 2 Functions:
 
 
 .. _STA:
+
 Stative
--------
+=======
+
 TODO
 Abbreviation: STA
 
 .. _DYN:
+
 Dynamic
--------
+=======
+
 TODO
 Abbreviation: DYN
 

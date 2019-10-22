@@ -1,5 +1,6 @@
+*********
 Phonology
-=========
+*********
 
 Consonants
 ----------
@@ -28,7 +29,7 @@ Consonants
 TODO pronunciation guide for linguistic newbies
 
 Vowels
-------
+======
 
 +------+---------------------+---------------------+---------------------+
 |      | Front               | Central             | Back                |
@@ -45,11 +46,11 @@ Vowels
 TODO pronunciation guide for linguistic newbies
 
 Stress
-------
+======
 
 TODO
 
 Tonality
---------
+========
 
 TODO

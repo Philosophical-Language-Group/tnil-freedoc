@@ -1,6 +1,8 @@
 
+*********
 Extension
-=========
+*********
+
 Extension describes a spatiotemporal part of the set (beginning vs. end) and
 its dynamics (gradual vs. immediate beginning/end), and its characterization
 as either circumscribed by or transcending the discursive context (i.e., is
@@ -20,38 +22,50 @@ There are 6 Extensions:
 
 
 .. _DEL:
+
 Delimitive
-----------
+==========
+
 TODO
 Abbreviation: DEL
 
 .. _PRX:
+
 Proximal
---------
+========
+
 TODO
 Abbreviation: PRX
 
 .. _ICP:
+
 Inceptive
----------
+=========
+
 TODO
 Abbreviation: ICP
 
 .. _ATV:
+
 Attenuative
------------
+===========
+
 TODO
 Abbreviation: ATV
 
 .. _GRA:
+
 Graduative
-----------
+==========
+
 TODO
 Abbreviation: GRA
 
 .. _DPL:
+
 Depletive
----------
+=========
+
 TODO
 Abbreviation: DPL
 

@@ -1,6 +1,8 @@
 
+***********
 Perspective
-===========
+***********
+
 Perspective quantifies both nominal and verbal stems and can provide
 tense-like information for verbal stems. This category, like that of of
 "Number" in other languages, differentiates between references to one or many
@@ -24,26 +26,34 @@ There are 4 Perspectives:
 
 
 .. _M:
+
 Monadic
--------
+=======
+
 TODO
 Abbreviation: M
 
 .. _P:
+
 Polyadic
---------
+========
+
 TODO
 Abbreviation: P
 
 .. _N:
+
 Nomic
------
+=====
+
 TODO
 Abbreviation: N
 
 .. _A:
+
 Abstract
---------
+========
+
 TODO
 Abbreviation: A
 

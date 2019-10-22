@@ -1,6 +1,8 @@
 
+*********
 Vxcs Type
-=========
+*********
+
 TODO
 There are 3 Vxcs Types:
 
@@ -13,20 +15,26 @@ There are 3 Vxcs Types:
 
 
 .. _₁:
+
 Type 1
-------
+======
+
 TODO
 Abbreviation: ₁
 
 .. _₂:
+
 Type 2
-------
+======
+
 TODO
 Abbreviation: ₂
 
 .. _₃:
+
 Type 3
-------
+======
+
 TODO
 Abbreviation: ₃
 

@@ -1,6 +1,8 @@
 
+******
 Aspect
-======
+******
+
 TODO
 There are 36 Aspects:
 
@@ -46,218 +48,290 @@ There are 36 Aspects:
 
 
 .. _RTR:
+
 Retrospective
--------------
+=============
+
 TODO
 Abbreviation: RTR
 
 .. _PRS:
+
 Prospective
------------
+===========
+
 TODO
 Abbreviation: PRS
 
 .. _HAB:
+
 Habitual
---------
+========
+
 TODO
 Abbreviation: HAB
 
 .. _PRG:
+
 Progressive
------------
+===========
+
 TODO
 Abbreviation: PRG
 
 .. _IMM:
+
 Imminent
---------
+========
+
 TODO
 Abbreviation: IMM
 
 .. _PCS:
+
 Precessive
-----------
+==========
+
 TODO
 Abbreviation: PCS
 
 .. _REG:
+
 Regulative
-----------
+==========
+
 TODO
 Abbreviation: REG
 
 .. _ATC:
+
 Antecedent
-----------
+==========
+
 TODO
 Abbreviation: ATC
 
 .. _ATP:
+
 Anticipatory
-------------
+============
+
 TODO
 Abbreviation: ATP
 
 .. _RSM:
+
 Resumptive
-----------
+==========
+
 TODO
 Abbreviation: RSM
 
 .. _CSS:
+
 Cessative
----------
+=========
+
 TODO
 Abbreviation: CSS
 
 .. _PAU:
+
 Pausal
-------
+======
+
 TODO
 Abbreviation: PAU
 
 .. _RGR:
+
 Regressive
-----------
+==========
+
 TODO
 Abbreviation: RGR
 
 .. _PCL:
+
 Preclusive
-----------
+==========
+
 TODO
 Abbreviation: PCL
 
 .. _CNT:
+
 Continuative
-------------
+============
+
 TODO
 Abbreviation: CNT
 
 .. _ICS:
+
 Incessative
------------
+===========
+
 TODO
 Abbreviation: ICS
 
 .. _SMM:
+
 Summative
----------
+=========
+
 TODO
 Abbreviation: SMM
 
 .. _IRP:
+
 Interruptive
-------------
+============
+
 TODO
 Abbreviation: IRP
 
 .. _PMP:
+
 Preemptive
-----------
+==========
+
 TODO
 Abbreviation: PMP
 
 .. _CLM:
+
 Climactic
----------
+=========
+
 TODO
 Abbreviation: CLM
 
 .. _DLT:
+
 Dilatory
---------
+========
+
 TODO
 Abbreviation: DLT
 
 .. _TMP:
+
 Temporary
----------
+=========
+
 TODO
 Abbreviation: TMP
 
 .. _MTV:
+
 Motive
-------
+======
+
 TODO
 Abbreviation: MTV
 
 .. _SQN:
+
 Sequential
-----------
+==========
+
 TODO
 Abbreviation: SQN
 
 .. _EPD:
+
 Expeditive
-----------
+==========
+
 TODO
 Abbreviation: EPD
 
 .. _PTC:
+
 Protractive
------------
+===========
+
 TODO
 Abbreviation: PTC
 
 .. _PPR:
+
 Preperatory
------------
+===========
+
 TODO
 Abbreviation: PPR
 
 .. _DCL:
+
 Disclusive
-----------
+==========
+
 TODO
 Abbreviation: DCL
 
 .. _CCL:
+
 Conclusive
-----------
+==========
+
 TODO
 Abbreviation: CCL
 
 .. _CUL:
+
 Culminative
------------
+===========
+
 TODO
 Abbreviation: CUL
 
 .. _IMD:
+
 Intermediative
---------------
+==============
+
 TODO
 Abbreviation: IMD
 
 .. _TRD:
+
 Tardative
----------
+=========
+
 TODO
 Abbreviation: TRD
 
 .. _TNS:
+
 Transitional
-------------
+============
+
 TODO
 Abbreviation: TNS
 
 .. _ITC:
+
 Intercommutative
-----------------
+================
+
 TODO
 Abbreviation: ITC
 
 .. _XPD:
+
 Expenditive
------------
+===========
+
 TODO
 Abbreviation: XPD
 
 .. _LIM:
+
 Limitive
---------
+========
+
 TODO
 Abbreviation: LIM
 

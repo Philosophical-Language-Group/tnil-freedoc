@@ -1,6 +1,8 @@
 
+*****
 Phase
-=====
+*****
+
 TODO
 There are 9 Phases:
 
@@ -19,56 +21,74 @@ There are 9 Phases:
 
 
 .. _CTX:
+
 Contextual
-----------
+==========
+
 TODO
 Abbreviation: CTX
 
 .. _PUN:
+
 Punctual
---------
+========
+
 TODO
 Abbreviation: PUN
 
 .. _ITR:
+
 Iterative
----------
+=========
+
 TODO
 Abbreviation: ITR
 
 .. _REP:
+
 Repetitive
-----------
+==========
+
 TODO
 Abbreviation: REP
 
 .. _ITM:
+
 Intermittent
-------------
+============
+
 TODO
 Abbreviation: ITM
 
 .. _RCT:
+
 Recurrent
----------
+=========
+
 TODO
 Abbreviation: RCT
 
 .. _FRE:
+
 Frequentative
--------------
+=============
+
 TODO
 Abbreviation: FRE
 
 .. _FRG:
+
 Fragmentative
--------------
+=============
+
 TODO
 Abbreviation: FRG
 
 .. _FLC:
+
 Fluctuative
------------
+===========
+
 TODO
 Abbreviation: FLC
 

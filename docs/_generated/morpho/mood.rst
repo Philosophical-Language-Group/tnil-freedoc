@@ -1,6 +1,8 @@
 
+****
 Mood
-====
+****
+
 TODO
 There are 6 Moods:
 
@@ -16,38 +18,50 @@ There are 6 Moods:
 
 
 .. _FAC:
+
 Factual
--------
+=======
+
 TODO
 Abbreviation: FAC
 
 .. _SUB:
+
 Subjunctive
------------
+===========
+
 TODO
 Abbreviation: SUB
 
 .. _ASM:
+
 Assumptive
-----------
+==========
+
 TODO
 Abbreviation: ASM
 
 .. _SPC:
+
 Speculative
------------
+===========
+
 TODO
 Abbreviation: SPC
 
 .. _COU:
+
 Counterfactive
---------------
+==============
+
 TODO
 Abbreviation: COU
 
 .. _HYP:
+
 Hypothetical
-------------
+============
+
 TODO
 Abbreviation: HYP
 

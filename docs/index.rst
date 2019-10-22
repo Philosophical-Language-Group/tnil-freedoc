@@ -3,8 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+######################################################
 Welcome to The New Ithkuilic Language's documentation!
-======================================================
+######################################################
 
 Ithkuil_ is a `constructed language`_ designed by John Quijada that prioritizes
 expressiveness and conciseness, and TNIL (“The New Ithkuilic Language” —
@@ -17,8 +18,9 @@ values.
 This is a community-driven, GPLv3-licensed set of documentation for TNIL,
 including graphics illustrating several morphological categories.
 
+************
 Contributing
-------------
+************
 
 This documentation is still far from complete, and most features are lacking a
 full description. If you are familiar with Ithkuilic grammar, please contribute!
@@ -32,6 +34,9 @@ Morphological and lexical information is stored in NILDB_, and all other text is
 Due to licensing ambiguity, translating of the lexicon is currently paused and
 all other documentation must use original word; i.e. do not copy verbatim from
 *A Grammar of Ithkuil* or any other texts written by Quijada.
+********
+Contents
+********
 
 .. toctree::
    :maxdepth: 2

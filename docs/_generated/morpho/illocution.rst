@@ -1,6 +1,8 @@
 
+**********
 Illocution
-==========
+**********
+
 TODO
 There are 9 Illocutions:
 
@@ -19,56 +21,74 @@ There are 9 Illocutions:
 
 
 .. _CNF:
+
 Confirmative
-------------
+============
+
 TODO
 Abbreviation: CNF
 
 .. _INF:
+
 Inferential
------------
+===========
+
 TODO
 Abbreviation: INF
 
 .. _ITU:
+
 Intuitive
----------
+=========
+
 TODO
 Abbreviation: ITU
 
 .. _REV:
+
 Revelatory
-----------
+==========
+
 TODO
 Abbreviation: REV
 
 .. _HSY:
+
 Hearsay
--------
+=======
+
 TODO
 Abbreviation: HSY
 
 .. _USP:
+
 Unspecified
------------
+===========
+
 TODO
 Abbreviation: USP
 
 .. _DIR:
+
 Directive
----------
+=========
+
 TODO
 Abbreviation: DIR
 
 .. _IRG:
+
 Interrogative
--------------
+=============
+
 TODO
 Abbreviation: IRG
 
 .. _DEC:
+
 Declarative
------------
+===========
+
 TODO
 Abbreviation: DEC
 

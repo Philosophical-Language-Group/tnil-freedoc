@@ -1,6 +1,8 @@
 
+*************
 Configuration
-=============
+*************
+
 CONFIGURATION conveys the quantity, spatiotemporal continuity, and physical
 similarity of the items named by the stem. Unlike [[Affiliation]], this
 category focuses on the physical variation of the items, rather than on
@@ -27,56 +29,74 @@ There are 9 Configurations:
 
 
 .. _UNI:
+
 Uniplex
--------
+=======
+
 TODO
 Abbreviation: UNI
 
 .. _DUP:
+
 Duplex
-------
+======
+
 TODO
 Abbreviation: DUP
 
 .. _DCT:
+
 Discrete
---------
+========
+
 TODO
 Abbreviation: DCT
 
 .. _AGG:
+
 Aggregative
------------
+===========
+
 TODO
 Abbreviation: AGG
 
 .. _SEG:
+
 Segmentative
-------------
+============
+
 TODO
 Abbreviation: SEG
 
 .. _CPN:
+
 Componential
-------------
+============
+
 TODO
 Abbreviation: CPN
 
 .. _COH:
+
 Coherent
---------
+========
+
 TODO
 Abbreviation: COH
 
 .. _CST:
+
 Composite
----------
+=========
+
 TODO
 Abbreviation: CST
 
 .. _MLT:
+
 Multiform
----------
+=========
+
 TODO
 Abbreviation: MLT
 

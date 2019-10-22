@@ -1,6 +1,8 @@
 
+*******
 Essence
-=======
+*******
+
 TODO
 There are 2 Essences:
 
@@ -12,14 +14,18 @@ There are 2 Essences:
 
 
 .. _NRM:
+
 Normal
-------
+======
+
 TODO
 Abbreviation: NRM
 
 .. _RPV:
+
 Representative
---------------
+==============
+
 TODO
 Abbreviation: RPV
 

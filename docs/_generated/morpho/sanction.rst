@@ -1,6 +1,8 @@
 
+********
 Sanction
-========
+********
+
 TODO
 There are 9 Sanctions:
 
@@ -19,56 +21,74 @@ There are 9 Sanctions:
 
 
 .. _PPS:
+
 Propositional
--------------
+=============
+
 TODO
 Abbreviation: PPS
 
 .. _EPI:
+
 Epistemic
----------
+=========
+
 TODO
 Abbreviation: EPI
 
 .. _ALG:
+
 Allegative
-----------
+==========
+
 TODO
 Abbreviation: ALG
 
 .. _IPU:
+
 Imputative
-----------
+==========
+
 TODO
 Abbreviation: IPU
 
 .. _REF:
+
 Refutative
-----------
+==========
+
 TODO
 Abbreviation: REF
 
 .. _REB:
+
 Rebuttative
------------
+===========
+
 TODO
 Abbreviation: REB
 
 .. _CJT:
+
 Conjectural
------------
+===========
+
 TODO
 Abbreviation: CJT
 
 .. _EXV:
+
 Expatiative
------------
+===========
+
 TODO
 Abbreviation: EXV
 
 .. _AXM:
+
 Axiomatic
----------
+=========
+
 TODO
 Abbreviation: AXM
 

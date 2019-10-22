@@ -1,6 +1,8 @@
 
+******
 Effect
-======
+******
+
 TODO
 There are 3 Effects:
 
@@ -13,20 +15,26 @@ There are 3 Effects:
 
 
 .. _BEN:
+
 Beneficial
-----------
+==========
+
 TODO
 Abbreviation: BEN
 
 .. _DET:
+
 Detrimental
------------
+===========
+
 TODO
 Abbreviation: DET
 
 .. _UNK:
+
 Unknown
--------
+=======
+
 TODO
 Abbreviation: UNK
 

@@ -1,6 +1,8 @@
 
+*******
 Version
-=======
+*******
+
 TODO
 There are 2 Versions:
 
@@ -12,15 +14,19 @@ There are 2 Versions:
 
 
 .. _PRC:
+
 Processual
-----------
+==========
+
 TODO
 Abbreviation: PRC
 
+.. _CPT:
 
 Completive
-----------
-TODO
+==========
 
+TODO
+Abbreviation: CPT
 
 
