@@ -17,10 +17,12 @@
 {%- endmacro -%}
 {% macro toc_groups(groups, level=0) %}
 {% for group in groups -%}
-{{ bullet(group['name'] + "_: *" + group['brief'] + "*", level) }}{{ toc_values(group['members'], level + 1) }}
-{%- endfor -%}
+{{ bullet(group['name'] + "_: *" + group['brief'] + "*", level) }}
+{{ toc_values(group['members'], level + 1) }}
+{% endfor -%}
 {%- endmacro %}
 {% macro section(title, level, text) -%}
 {{ section_heading(title, level) }}
+
 {{ text }}
 {%- endmacro -%}
